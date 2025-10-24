@@ -1,2 +1,4 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1
+LK OÖ,LK OÖ,ORG,0.5,0.0,de,1
+Proz…,Proz…,ORG,0.0,0.0,de,1

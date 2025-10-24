@@ -1,4 +1,7 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
 www.stern.de,-0.03694444444444444,0.14830558763951843,0.15833333333333333,0.18333333333333335,4.0
+www.tagesspiegel.de,-0.205,0.28991378028648446,0.05,0.07071067811865477,2.0
+ooe.orf.at,0.0,1.0,0.0,1.0,1.0
+taz.de,0.0,1.0,0.0,1.0,1.0
 www.focus.de,0.0,1.0,0.0,1.0,1.0
-www.tagesspiegel.de,0.0,1.0,0.0,1.0,1.0
+www.n-tv.de,0.0,1.0,0.0,1.0,1.0
