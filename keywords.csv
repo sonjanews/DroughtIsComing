@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzewelle',de,Causes,#E8AA1A,#EFC565,3,0.501500645
 'Dürre',de,Hazard,#C13030,#9F4E4E,3,0.5
 'Versalzung',de,Causes,#E8AA1A,#F3D57C,3,0.5
 'Hitzetote',de,Impacts,#458D49,#B9D697,3,0.5
@@ -7,4 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#C13030,#CB5050,3,0.4351185118181818
 'Wasser sparen',de,Mitigation,#348AD6,#73BBDB,3,0.4299523249999999
 'Hungersnot',de,Impacts,#458D49,#7EAE80,3,0.42995159
+'Hitzewelle',de,Causes,#E8AA1A,#EFC565,2,0.42627619325000005
 'Wasserspeicher',de,Mitigation,#348AD6,#70AADD,2,0.42500027
