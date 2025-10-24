@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hitzetote',de,Impacts,#458D49,#B9D697,3,0.5
 'Dürre',de,Hazard,#C13030,#9F4E4E,3,0.4481328681818182
 'Niedrigwasser',de,Hazard,#C13030,#CB5050,3,0.4351185118181818
 'Wasser sparen',de,Mitigation,#348AD6,#73BBDB,3,0.4299523249999999
 'Hungersnot',de,Impacts,#458D49,#7EAE80,3,0.42995159
 'Hitzewelle',de,Causes,#E8AA1A,#EFC565,2,0.42627619325
 'Wasserspeicher',de,Mitigation,#348AD6,#70AADD,2,0.42500027
+'Hitzetote',de,Impacts,#458D49,#B9D697,1,0.42500010499999996
 'Ernteausfall',de,Impacts,#458D49,#8DAD69,2,0.425000015
 'Versalzung',de,Causes,#E8AA1A,#F3D57C,2,0.425
