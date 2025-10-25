@@ -1,8 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Deutschland,Deutschland,LOC,0.35,0.0,de,4
+Sudan,Sudan,LOC,-0.2333333333333333,0.0,de,3
 Sachsen,Sachsen,LOC,-0.175,0.75,de,2
 Waldfläche,Waldfläche,LOC,0.0,0.0,de,2
 Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2
+Al-Faschir,Al-Faschir,LOC,0.0,0.0,de,2
 Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,1
 …,…,LOC,0.0,0.0,de,1
 Gletscher-Sterben,Gletscher-Sterben,LOC,-0.2333333333333333,0.0,de,1

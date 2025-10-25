@@ -1,20 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Schweizer,Schweizer,MISC,,,de,4
 "Link
 ","Link
 ",MISC,,,de,4
-Schweizer,Schweizer,MISC,,,de,4
 Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,3
 deutschen,deutschen,MISC,,,de,2
 deutsche,deutsche,MISC,,,de,2
+Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
+Sachsen,Sachsen,MISC,0.0,0.0,de,1
 Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
 Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
-Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
 “,“,MISC,,,de,1
-Sachsen,Sachsen,MISC,0.0,0.0,de,1
 Gletsc…,Gletsc…,MISC,,,de,1
 Boyles Roman,Boyles Roman,MISC,,,de,1
 No Way Home“,No Way Home“,MISC,,,de,1
 Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
 amerikanische,amerikanische,MISC,,,de,1
 Zeit,Zeit,MISC,,,de,1
+RSF,RSF,MISC,,,de,1
 Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
