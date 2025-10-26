@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8DAD69,2,0.425000015
-'Hitzewelle Verdunstung',de,Causes,#E8AA1A,#EFC565,2,0.3848134406910714
 'Hitzetote',de,Impacts,#458D49,#B9D697,2,0.3818624129696428
 'Wasser sparen',de,Mitigation,#348AD6,#73BBDB,3,0.3704119062499999
 'Niedrigwasser',de,Hazard,#C13030,#CB5050,1,0.3698510950454545
-'Versalzung',de,Causes,#E8AA1A,#F3D57C,2,0.36140001499999996
+'Versalzung',de,Causes,#E8AA1A,#F3D57C,2,0.3614000149999999
 'Wasserspeicher',de,Mitigation,#348AD6,#70AADD,1,0.3612504995
+'Hitzewelle Verdunstung',de,Causes,#E8AA1A,#EFC565,2,0.32784149958741066
 'Hungersnot',de,Impacts,#458D49,#7EAE80,3,0.3236641721386363
 'Dürre',de,Hazard,#C13030,#9F4E4E,3,0.0448132868181818
