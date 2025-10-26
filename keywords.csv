@@ -1,9 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.56125001275
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.5323664172138636
 'Dürremonitor',de,Hazard,#c13030,#cb5050,2,0.5179737907886363
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.4923490394738636
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.47841264583749993
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,2,0.4527454631784085
+'regenmangel',de,Hazard,#b13040,#9f4e4e,3,0.448132868181818
 'Hitzetote',de,Impacts,#458d49,#b9d697,2,0.3818624129696428
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3614000149999999
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.3612504995
@@ -14,4 +15,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.3179737907886363
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.2382531222019041
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0448132868181818
-'regenmangel',de,Hazard,#b13040,#9f4e4e,3,0.448132868181818
