@@ -12,3 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.3179737907886363
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.2382531222019041
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0448132868181818
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.53236641721386363
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,3,0.532641721386363
