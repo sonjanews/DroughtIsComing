@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.420146848552784
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.4080008839618748
 'Hitzetote',de,Impacts,#458d49,#b9d697,2,0.3818624129696428
-'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.38138663126647265
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.3787974476201647
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.3742360638447896
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3614000149999999
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.3612504995
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.3320896289144231
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.3271085971464001
+'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.3252287415765017
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.3243479598579544
 'regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
