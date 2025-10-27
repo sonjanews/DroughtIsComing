@@ -1,4 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Donald Trump,Donald Trump,PER,-1.0,0.0,de,1
+beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.0,1.0,de,1
 Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1
 Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1

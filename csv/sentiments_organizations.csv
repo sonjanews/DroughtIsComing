@@ -1,4 +1,9 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,-0.35,0.0,de,2
+RKI,RKI,ORG,-0.35,0.0,de,2
+Univers…,Univers…,ORG,0.0,0.0,de,1
 Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1
+Ha…,Ha…,ORG,0.0,0.0,de,1
+Rheinische Post,Rheinische Post,ORG,-0.7,0.0,de,1
 LK OÖ,LK OÖ,ORG,0.5,0.0,de,1
 Proz…,Proz…,ORG,0.0,0.0,de,1
