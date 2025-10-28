@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzetote',de,Impacts,#458d49,#b9d697,2,0.3256331560241964
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.3252287415765017
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.3243479598579544
-'regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.3179737907886363
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.3070625108375
