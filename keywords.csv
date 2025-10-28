@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.420146848552784
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.3787974476201647
-'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3614000149999999
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.3612504995
+'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3576400577499999
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.3481508863675935
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.3320896289144231
