@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.3481508863675935
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.3320896289144231
-'Hitzetote',de,Impacts,#458d49,#b9d697,2,0.3256331560241964
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.3223494532113636
