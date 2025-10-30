@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.3481508863675935
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.3223494532113636
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.3179737907886363
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.3102284334124545
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.3073033026541827
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.3070625108375
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3044440940874999
