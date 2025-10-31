@@ -16,7 +16,8 @@
 ### GeonamesAPI  
 :white_check_mark: Geonames key exists  
 :white_check_mark: Geonames respone fine  
-:no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount   
+:white_check_mark: Geonames result fine  
+:white_check_mark: Geonames results found  
 
 ---
   
