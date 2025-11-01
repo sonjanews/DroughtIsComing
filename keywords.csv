@@ -2,17 +2,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
-'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.3073033026541827
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.3070625108375
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3044440940874999
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.2806481508792612
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2774945353400265
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.27564720022965905
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.275647200229659
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.274513739155569
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.2741062243684399
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.2737280671703408
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.2703855561278604
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.2654943484005863
+'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.2622579122560553
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.236335961438274
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.1728880195408756
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0759152918111802
