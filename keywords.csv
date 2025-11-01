@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
-'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.3236641721386363
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3044440940874999
+'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.28461147086329536
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.2806481508792612
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2774945353400265
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.275647200229659
