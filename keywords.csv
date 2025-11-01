@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3453196677737366
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3044440940874999
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.30300969760767615
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.2846114708632953
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.2806481508792612
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2774945353400265
@@ -13,6 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.2622579122560553
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.261003134211875
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.236335961438274
-'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.22982772270868135
+'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.2298277227086813
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.1728880195408756
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0759152918111802
