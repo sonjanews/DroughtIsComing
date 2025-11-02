@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.3237759972613634
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,2,0.3044440940874999
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.30300969760767615
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.3030096976076761
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.2846114708632953
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.2806481508792612
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2774945353400265
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.275647200229659
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.2752095976721589
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.274513739155569
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.2741062243684399
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.2737280671703408
