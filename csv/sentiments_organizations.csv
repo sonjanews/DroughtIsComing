@@ -1,9 +1,22 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,2
 Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,-0.35,0.0,de,2
 RKI,RKI,ORG,-0.35,0.0,de,2
 Univers…,Univers…,ORG,0.0,0.0,de,1
-Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1
-Ha…,Ha…,ORG,0.0,0.0,de,1
+Proz…,Proz…,ORG,0.0,0.0,de,1
+Jedi-Ritter,Jedi-Ritter,ORG,0.0,0.0,de,1
+GEO,GEO,ORG,1.0,0.0,de,1
+Europäische Kommission,Europäische Kommission,ORG,0.0,0.0,de,1
+Europaparlament,Europaparlament,ORG,1.0,0.0,de,1
+ve…,ve…,ORG,0.0,0.0,de,1
+Fachjournal Science,Fachjournal Science,ORG,0.0,0.0,de,1
 Rheinische Post,Rheinische Post,ORG,-0.7,0.0,de,1
 LK OÖ,LK OÖ,ORG,0.5,0.0,de,1
-Proz…,Proz…,ORG,0.0,0.0,de,1
+EU-Bericht,EU-Bericht,ORG,-1.0,0.0,de,1
+Energievers…,Energievers…,ORG,0.0,0.0,de,1
+EnBW,EnBW,ORG,0.0,0.0,de,1
+Ha…,Ha…,ORG,0.0,0.0,de,1
+Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1
+Deutsc…,Deutsc…,ORG,0.0,0.0,de,1
+Biodiversitä…,Biodiversitä…,ORG,-0.43333333333333335,0.0,de,1
+Groß…,Groß…,ORG,0.0,0.0,de,1

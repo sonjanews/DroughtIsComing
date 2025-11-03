@@ -1,29 +1,46 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,6
+",MISC,,,de,9
 Schweizer,Schweizer,MISC,,,de,4
 Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,3
-spanische,spanische,MISC,,,de,2
+Star Wars,Star Wars,MISC,,,de,2
 deutschen,deutschen,MISC,,,de,2
 deutsche,deutsche,MISC,,,de,2
-RSF,RSF,MISC,,,de,1
+spanische,spanische,MISC,,,de,2
 südeuropäische,südeuropäische,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
+RSF,RSF,MISC,,,de,1
+Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+Regenausfall,Regenausfall,MISC,,,de,1
+EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
+EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
+chinesischen,chinesischen,MISC,,,de,1
+stern+,stern+,MISC,,,de,1
+stern+statt,stern+statt,MISC,,,de,1
 Hause,Hause,MISC,,,de,1
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
+Sieben Jahre ohne Star Wars,Sieben Jahre ohne Star Wars,MISC,,,de,1
+Sternenkrieg passé,Sternenkrieg passé,MISC,,,de,1
+Zeit der großen Dürre,Zeit der großen Dürre,MISC,,,de,1
+Klimaflucht,Klimaflucht,MISC,,,de,1
+Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1
+Frankfurter,Frankfurter,MISC,,,de,1
+Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
 Zeit,Zeit,MISC,,,de,1
 amerikanische,amerikanische,MISC,,,de,1
-Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
-No Way Home“,No Way Home“,MISC,,,de,1
-Boyles Roman,Boyles Roman,MISC,,,de,1
+Sachsen,Sachsen,MISC,0.0,0.0,de,1
+Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
+Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
+Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
+Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
+Grundwas…,Grundwas…,MISC,,,de,1
+MV,MV,MISC,0.0,0.0,de,1
+EU-Bericht,EU-Bericht,MISC,,,de,1
+Umweltkrise,Umweltkrise,MISC,,,de,1
 Gletsc…,Gletsc…,MISC,,,de,1
 brasilianischen,brasilianischen,MISC,,,de,1
+Obe…,Obe…,MISC,,,de,1
+Boyles Roman,Boyles Roman,MISC,,,de,1
+No Way Home“,No Way Home“,MISC,,,de,1
 “,“,MISC,,,de,1
-MV,MV,MISC,0.0,0.0,de,1
-Grundwas…,Grundwas…,MISC,,,de,1
-Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
-Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
-Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
-Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
-Sachsen,Sachsen,MISC,0.0,0.0,de,1
-Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+Euro,Euro,MISC,,,de,1

@@ -1,25 +1,49 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Deutschland,Deutschland,LOC,0.029629629629629624,0.0,de,9
 Spanien,Spanien,LOC,0.11666666666666664,0.16666666666666666,de,9
-Deutschland,Deutschland,LOC,0.09999999999999999,0.0,de,7
+Allgäu,Allgäu,LOC,-0.10999999999999999,0.0,de,5
+Europa,Europa,LOC,-0.18333333333333335,0.0,de,4
+Trab,Trab,LOC,-0.175,0.0,de,4
+Oberbayern,Oberbayern,LOC,-0.175,0.0,de,4
 Sudan,Sudan,LOC,-0.2333333333333333,0.0,de,3
 Madagaskar,Madagaskar,LOC,0.0,0.0,de,3
+Forbach,Forbach,LOC,-0.35,0.0,de,2
 Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2
-Sachsen,Sachsen,LOC,-0.175,0.75,de,2
-Waldfläche,Waldfläche,LOC,0.0,0.0,de,2
+Pischeldorf,Pischeldorf,LOC,-0.35,0.0,de,2
+China,China,LOC,0.0,0.0,de,2
 Al-Faschir,Al-Faschir,LOC,0.0,0.0,de,2
-Rajoelina,Rajoelina,LOC,0.0,0.0,de,2
-Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2
+Dürre,Dürre,LOC,0.35,0.0,de,2
+Universität Innsbruck,Universität Innsbruck,LOC,0.0,0.0,de,2
+Irak,Irak,LOC,0.0,0.0,de,2
 Madrid,Madrid,LOC,0.7,0.0,de,2
+Mali,Mali,LOC,-0.35,0.0,de,2
+Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2
+Rajoelina,Rajoelina,LOC,0.0,0.0,de,2
+Glan,Glan,LOC,-0.5,0.0,de,2
+Poppichl,Poppichl,LOC,-0.5,0.0,de,2
+Waldfläche,Waldfläche,LOC,0.0,0.0,de,2
+Sachsen,Sachsen,LOC,-0.175,0.75,de,2
+Brückl,Brückl,LOC,-0.35,0.0,de,2
+Bad Eisenkappel,Bad Eisenkappel,LOC,0.0,0.0,de,1
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
+Italien,Italien,LOC,0.0,0.0,de,1
+Bewohner,Bewohner,LOC,0.0,0.0,de,1
+Klagenfurt,Klagenfurt,LOC,-1.0,0.0,de,1
+Maria Saal,Maria Saal,LOC,0.0,0.0,de,1
+Waldbränden,Waldbränden,LOC,0.0,0.0,de,1
+Schädlingen,Schädlingen,LOC,0.0,0.0,de,1
 Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,1
+Landwirtschaftskammer Oberösterreich,Landwirtschaftskammer Oberösterreich,LOC,0.5,0.5,de,1
 Linz,Linz,LOC,0.7,0.0,de,1
 Herbsternte,Herbsternte,LOC,0.0,0.0,de,1
-Dürre,Dürre,LOC,0.7,0.0,de,1
-US-Präsident,US-Präsident,LOC,-1.0,0.0,de,1
-Gletscher-Sterben,Gletscher-Sterben,LOC,-0.2333333333333333,0.0,de,1
-Senklöcher,Senklöcher,LOC,-1.0,0.0,de,1
 …,…,LOC,0.0,0.0,de,1
+US-Präsident,US-Präsident,LOC,-1.0,0.0,de,1
+Bayern,Bayern,LOC,0.0,0.0,de,1
+Älpler,Älpler,LOC,0.0,0.0,de,1
+Senklöcher,Senklöcher,LOC,-1.0,0.0,de,1
+Gletscher-Sterben,Gletscher-Sterben,LOC,-0.2333333333333333,0.0,de,1
 Österreichs Staatsfläche,Österreichs Staatsfläche,LOC,0.0,0.0,de,1
-Europa,Europa,LOC,0.7,0.0,de,1
 Europas,Europas,LOC,0.0,0.0,de,1
+Artensterben,Artensterben,LOC,-0.43333333333333335,0.0,de,1
 MV,MV,LOC,0.0,0.0,de,1
-Landwirtschaftskammer Oberösterreich,Landwirtschaftskammer Oberösterreich,LOC,0.5,0.5,de,1
+Bezirk Klagenfurt-…,Bezirk Klagenfurt-…,LOC,0.0,0.0,de,1
