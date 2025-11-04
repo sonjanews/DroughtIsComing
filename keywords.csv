@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.2741062243684399
-'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.2737280671703408
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.2622579122560553
 'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.251421190233801
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.243503403247372
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2367704450390225
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.233928158021335
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.2337867232822336
+'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.23266912709478968
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.2298277227086813
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2260727212715459
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2218526640800937
