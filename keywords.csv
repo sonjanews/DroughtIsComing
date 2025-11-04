@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.2399703761404983
 'Dürre teuer',de,Impacts,#157552,#7eae80,2,0.2367704450390225
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.236335961438274
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.2356502551952101
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.233928158021335
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.2337867232822336
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.2298277227086813
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2218526640800937
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.20165285191592858
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.1728880195408756
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0759152918111802
