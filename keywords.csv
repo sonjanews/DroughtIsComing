@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.2741062243684399
-'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.251421190233801
 'Wasser sparen',de,Mitigation,#348AD6,#73bbdb,3,0.243503403247372
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.2399703761404983
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.233928158021335
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.2326691270947896
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.2298277227086813
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2260727212715459
-'Trockenstress',de,Impacts,#428e47,#8dad69,2,0.22568910690532137
+'Trockenstress',de,Impacts,#428e47,#8dad69,2,0.2256891069053213
+'Hungersnot',de,Impacts,#458d49,#7eae80,3,0.22320495124418538
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2218526640800937
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.2204109412282186
 'Klimawandel',de,Causes,#e8aa1a,#e8b41a,1,0.2204109412282186
