@@ -305,7 +305,7 @@ def extractData(article, language, keyWord):
         published = article['publishedAt']
     content = article['content']
     hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
-    data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
+    data = {'url':url, 'valid':1, 'domain':domain,'published':published, 'description':description, 'title':title, 
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr}
     return data  
 
