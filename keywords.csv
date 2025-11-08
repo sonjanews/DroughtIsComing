@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.2204109412282186
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.2016528519159285
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.2016496078561977
-'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.2012549832831691
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.2008855672225329
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.1988389343181347
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.16989350582141374
+'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.17211684079069373
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1698935058214137
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.1061748550005401
 'Dürre',de,Hazard,#c13030,#9f4e4e,1,0.0922065307667759
