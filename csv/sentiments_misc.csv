@@ -1,33 +1,44 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,9
+",MISC,,,de,12
+“,“,MISC,,,de,9
 Schweizer,Schweizer,MISC,,,de,4
+Klimawandel“,Klimawandel“,MISC,,,de,4
 Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,3
+Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,2
+Krieg,Krieg,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+stern+,stern+,MISC,,,de,2
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
 Star Wars,Star Wars,MISC,,,de,2
-deutschen,deutschen,MISC,,,de,2
-deutsche,deutsche,MISC,,,de,2
 spanische,spanische,MISC,,,de,2
-südeuropäische,südeuropäische,MISC,,,de,1
-RSF,RSF,MISC,,,de,1
-Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+deutsche,deutsche,MISC,,,de,2
+deutschen,deutschen,MISC,,,de,2
+Klimaflucht,Klimaflucht,MISC,,,de,1
+französischen,französischen,MISC,,,de,1
+F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
+a…,a…,MISC,,,de,1
+hessische,hessische,MISC,,,de,1
 Regenausfall,Regenausfall,MISC,,,de,1
 EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
 EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
-chinesischen,chinesischen,MISC,,,de,1
-stern+,stern+,MISC,,,de,1
-stern+statt,stern+statt,MISC,,,de,1
-Hause,Hause,MISC,,,de,1
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
-Sieben Jahre ohne Star Wars,Sieben Jahre ohne Star Wars,MISC,,,de,1
-Sternenkrieg passé,Sternenkrieg passé,MISC,,,de,1
+griechischen,griechischen,MISC,,,de,1
+Potenzial wä…,Potenzial wä…,MISC,,,de,1
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1
+Pandemie“,Pandemie“,MISC,,,de,1
 Zeit der großen Dürre,Zeit der großen Dürre,MISC,,,de,1
-Klimaflucht,Klimaflucht,MISC,,,de,1
+chinesischen,chinesischen,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Sieben Jahre ohne Star Wars,Sieben Jahre ohne Star Wars,MISC,,,de,1
+Der Schloss…,Der Schloss…,MISC,,,de,1
+Sternenkrieg passé,Sternenkrieg passé,MISC,,,de,1
 Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
-Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
-Zeit,Zeit,MISC,,,de,1
-amerikanische,amerikanische,MISC,,,de,1
+Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,MISC,-0.2833333333333333,0.16666666666666666,de,1
+Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
+Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+CO2,CO2,MISC,,,de,1
+Obe…,Obe…,MISC,,,de,1
 Sachsen,Sachsen,MISC,0.0,0.0,de,1
 Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
 Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
@@ -39,8 +50,17 @@ EU-Bericht,EU-Bericht,MISC,,,de,1
 Umweltkrise,Umweltkrise,MISC,,,de,1
 Gletsc…,Gletsc…,MISC,,,de,1
 brasilianischen,brasilianischen,MISC,,,de,1
-Obe…,Obe…,MISC,,,de,1
 Boyles Roman,Boyles Roman,MISC,,,de,1
+Drastischer CO2-Anstieg,Drastischer CO2-Anstieg,MISC,,,de,1
 No Way Home“,No Way Home“,MISC,,,de,1
-“,“,MISC,,,de,1
-Euro,Euro,MISC,,,de,1
+Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
+amerikanische,amerikanische,MISC,,,de,1
+Zeit,Zeit,MISC,,,de,1
+Hause,Hause,MISC,,,de,1
+Frankfurter,Frankfurter,MISC,,,de,1
+südeuropäische,südeuropäische,MISC,,,de,1
+Fauna“,Fauna“,MISC,,,de,1
+Umweltschutz“,Umweltschutz“,MISC,,,de,1
+RSF,RSF,MISC,,,de,1
+CO2-Anstieg,CO2-Anstieg,MISC,,,de,1
+Klimaziele“,Klimaziele“,MISC,,,de,1
