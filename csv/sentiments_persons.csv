@@ -1,19 +1,42 @@
-,phrase,label,sentiment,subjectivity,language,count
-Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,2
-Bremens Umgang,Bremens Umgang,PER,-1.0,0.0,de,2
-Europas Wohlstand,Europas Wohlstand,PER,0.0,0.0,de,1
-Peter Schwalbach,Peter Schwalbach,PER,0.0,0.0,de,1
-Experten erwart,Experten erwart,PER,0.0,0.0,de,1
-Madi Keita,Madi Keita,PER,0.0,0.0,de,1
-George Lucas,George Lucas,PER,0.7,0.0,de,1
-Peter Osteried,Peter Osteried,PER,0.7,0.0,de,1
-Michael Bahn,Michael Bahn,PER,0.0,0.0,de,1
-Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1
-Donald Trump,Donald Trump,PER,-1.0,0.0,de,1
-Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1
-Matthias Berni,Matthias Berni,PER,0.0,0.0,de,1
-Karl Bär,Karl Bär,PER,0.0,0.0,de,1
-Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1
-Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1
-beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.0,1.0,de,1
-Edwin Hamweemba,Edwin Hamweemba,PER,1.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Lula da Silva,Lula da Silva,PER,0.5,0.0,de,4,,,,,,
+Pablo Nett,Pablo Nett,PER,0.9500000000000001,0.0,de,3,,,,,,
+Filippo Grandi,Filippo Grandi,PER,0.3333333333333333,0.0,de,3,,,,,,
+Massud Peseschkian,Massud Peseschkian,PER,0.0,0.0,de,3,,,,,,
+Charlotte Krebs,Charlotte Krebs,PER,1.0,0.0,de,2,,,,,,
+Kelis Rogers,Kelis Rogers,PER,0.0,0.0,de,2,,,,,,
+Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,2,,,,,,
+Donald Trump,Donald Trump,PER,-0.5,0.0,de,2,,,,,,
+Norbert Bolz,Norbert Bolz,PER,0.0,0.0,de,2,,,,,,
+Bremens Umgang,Bremens Umgang,PER,-1.0,0.0,de,2,,,,,,
+Nicole Deitelhoff,Nicole Deitelhoff,PER,0.85,0.0,de,1,,,,,,
+Lichtenrader Revier,Lichtenrader Revier,PER,0.0,0.0,de,1,,,,,,
+Martin Kölli,Martin Kölli,PER,0.0,0.0,de,1,,,,,,
+Europas Wohlstand,Europas Wohlstand,PER,0.0,0.0,de,1,,,,,,
+Teheran  ,Teheran  ,PER,0.7,0.0,de,1,,,,,,
+Masoud Pezeshkian ,Masoud Pezeshkian ,PER,0.7,0.0,de,1,,,,,,
+Mohammad Alimoradi,Mohammad Alimoradi,PER,1.0,0.0,de,1,,,,,,
+Abbas Aliabadi,Abbas Aliabadi,PER,-1.0,0.0,de,1,,,,,,
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1,,,,,,
+Kulturstaatsminister Weimer,Kulturstaatsminister Weimer,PER,0.0,0.0,de,1,,,,,,
+Krankmacher Wüstenstaub,Krankmacher Wüstenstaub,PER,0.0,0.0,de,1,,,,,,
+Armin Schuster,Armin Schuster,PER,0.7,0.0,de,1,,,,,,
+Leo XIV,Leo XIV,PER,0.0,0.0,de,1,,,,,,
+Madi Keita,Madi Keita,PER,0.0,0.0,de,1,,,,,,
+Edwin Hamweemba,Edwin Hamweemba,PER,1.0,0.0,de,1,,,,,,
+Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1,,,,,,
+beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.0,1.0,de,1,,,,,,
+Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1,,,,,,
+Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1,,,,,,
+Karl Bär,Karl Bär,PER,0.0,0.0,de,1,,,,,,
+Matthias Berni,Matthias Berni,PER,0.0,0.0,de,1,,,,,,
+Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1,,,,,,
+Peter Schwalbach,Peter Schwalbach,PER,0.0,0.0,de,1,,,,,,
+George Lucas,George Lucas,PER,0.7,0.0,de,1,,,,,,
+Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1,,,,,,
+Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1,,,,,,
+Franz K,Franz K,PER,0.0,0.0,de,1,,,,,,
+John Topham ,John Topham ,PER,0.0,0.0,de,1,,,,,,
+Michael Bahn,Michael Bahn,PER,0.0,0.0,de,1,,,,,,
+Peter Osteried,Peter Osteried,PER,0.7,0.0,de,1,,,,,,
+Mei Schnitzel,Mei Schnitzel,PER,0.7,0.0,de,1,,,,,,
