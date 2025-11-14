@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.61495057
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.6
-'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.5408321381388889
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.529950555
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,2,0.48804267925
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.48075560156722685
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.4807556015672268
+'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.4737577224180555
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.4567584907999999
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.3834382793738635
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.31415983309875
