@@ -1,206 +1,216 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Iran,Iran,LOC,-0.2180555555555555,0.2123015873015873,de,42,-1,,,,,
-Deutschland,Deutschland,LOC,-0.020634920634920634,0.047619047619047616,de,21,-1,,,,,
-Berlin,Berlin,LOC,-0.10833333333333334,0.16666666666666666,de,18,-1,,,,,
-Teheran,Teheran,LOC,-0.31805555555555554,0.08333333333333333,de,18,-1,,,,,
-Türkei,Türkei,LOC,-0.18205128205128202,0.5641025641025641,de,13,-1,,,,,
-Italien,Italien,LOC,-0.05454545454545456,0.0,de,11,-1,,,,,
-Brandenburg,Brandenburg,LOC,-0.05499999999999999,0.0,de,10,-1,,,,,
-Spanien,Spanien,LOC,0.11666666666666664,0.16666666666666666,de,9,-1,,,,,
-China,China,LOC,0.20625,0.0625,de,8,-1,,,,,
-Brasilien,Brasilien,LOC,0.0,0.0,de,8,-1,,,,,
-Europa,Europa,LOC,-0.10476190476190476,0.0,de,7,-1,,,,,
-Belém,Belém,LOC,-0.2833333333333333,0.16666666666666666,de,6,-1,,,,,
-Bund,Bund,LOC,0.11666666666666665,0.0,de,6,-1,,,,,
-…,…,LOC,0.11666666666666665,0.0,de,6,-1,,,,,
-Irak,Irak,LOC,0.0,0.0,de,6,-1,,,,,
-Bayerns,Bayerns,LOC,0.21999999999999992,0.0,de,5,-1,,,,,
-Allgäu,Allgäu,LOC,-0.10999999999999999,0.0,de,5,-1,,,,,
-Bodensee,Bodensee,LOC,0.33999999999999997,0.0,de,5,-1,,,,,
-Niedersachsen,Niedersachsen,LOC,-0.25,0.0,de,4,-1,,,,,
-Oberbayern,Oberbayern,LOC,-0.175,0.0,de,4,-1,,,,,
-Trab,Trab,LOC,-0.175,0.0,de,4,-1,,,,,
-Baruth,Baruth,LOC,0.175,0.0,de,4,-1,,,,,
-Landes,Landes,LOC,0.0,0.0,de,4,-1,,,,,
-Athen,Athen,LOC,-0.175,0.0,de,4,-1,,,,,
-See,See,LOC,0.175,0.0,de,4,-1,,,,,
-Afrika,Afrika,LOC,0.25,0.0,de,4,-1,,,,,
-Kenia,Kenia,LOC,0.25,0.0,de,4,-1,,,,,
-Brandenburgs,Brandenburgs,LOC,-0.2333333333333333,0.0,de,3,-1,,,,,
-Berliner Abgeordnetenhaus,Berliner Abgeordnetenhaus,LOC,-0.2333333333333333,0.0,de,3,-1,,,,,
-Wassermangel,Wassermangel,LOC,0.0,0.0,de,3,-1,,,,,
-Schlosspark Wechselburg,Schlosspark Wechselburg,LOC,0.0,0.3333333333333333,de,3,-1,,,,,
-Park Wechselburg,Park Wechselburg,LOC,0.0,0.0,de,3,-1,,,,,
-Karibik,Karibik,LOC,-0.4666666666666666,0.0,de,3,-1,,,,,
-Klimawandel,Klimawandel,LOC,-0.2333333333333333,0.3333333333333333,de,3,-1,,,,,
-Australiens,Australiens,LOC,-0.6666666666666666,0.3333333333333333,de,3,-1,,,,,
-Getränke-Produktion,Getränke-Produktion,LOC,0.0,0.0,de,3,-1,,,,,
-Augsburg,Augsburg,LOC,0.4666666666666666,0.0,de,3,-1,,,,,
-Sahara,Sahara,LOC,-0.2333333333333333,0.3333333333333333,de,3,-1,,,,,
-Irans,Irans,LOC,0.6666666666666666,0.0,de,3,-1,,,,,
-Sachsen,Sachsen,LOC,-0.11666666666666665,0.5,de,3,-1,,,,,
-Madagaskar,Madagaskar,LOC,0.0,0.0,de,3,-1,,,,,
-Sudan,Sudan,LOC,-0.2333333333333333,0.0,de,3,-1,,,,,
-Dürre,Dürre,LOC,0.2333333333333333,0.0,de,3,-1,,,,,
-Bayern,Bayern,LOC,0.0,0.0,de,3,-1,,,,,
-den USA,den USA,LOC,-0.16666666666666666,0.16666666666666666,de,3,-1,,,,,
-Ettelaat,Ettelaat,LOC,0.0,0.0,de,2,-1,,,,,
-US-Präsident,US-Präsident,LOC,-0.5,0.0,de,2,-1,,,,,
-Europas,Europas,LOC,0.35,0.0,de,2,-1,,,,,
-Forbach,Forbach,LOC,-0.35,0.0,de,2,-1,,,,,
-Erde,Erde,LOC,0.0,0.0,de,2,-1,,,,,
-Kent,Kent,LOC,0.0,0.0,de,2,-1,,,,,
-Soja,Soja,LOC,1.0,0.0,de,2,-1,,,,,
-Brasiliens,Brasiliens,LOC,0.0,0.0,de,2,-1,,,,,
-Mandeln,Mandeln,LOC,-0.35,0.0,de,2,-1,,,,,
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.35,0.0,de,2,-1,,,,,
-Artensterben,Artensterben,LOC,-0.21666666666666667,0.0,de,2,-1,,,,,
-Arabische Staaten,Arabische Staaten,LOC,0.0,0.5,de,2,-1,,,,,
-Sizilien,Sizilien,LOC,0.0,0.0,de,2,-1,,,,,
-Glan,Glan,LOC,-0.5,0.0,de,2,-1,,,,,
-Universität Innsbruck,Universität Innsbruck,LOC,0.0,0.0,de,2,-1,,,,,
-Mascara,Mascara,LOC,0.5,0.0,de,2,-1,,,,,
-Japans,Japans,LOC,0.0,0.0,de,2,-1,,,,,
-Malawi,Malawi,LOC,0.0,1.0,de,2,-1,,,,,
-Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2,-1,,,,,
-Madrid,Madrid,LOC,0.7,0.0,de,2,-1,,,,,
-Pariser,Pariser,LOC,0.0,0.0,de,2,-1,,,,,
-Mali,Mali,LOC,-0.35,0.0,de,2,-1,,,,,
-Andalusien,Andalusien,LOC,-0.7,0.0,de,2,-1,,,,,
-Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2,-1,,,,,
-Freistaat,Freistaat,LOC,0.35,0.0,de,2,-1,,,,,
-Rajoelina,Rajoelina,LOC,0.0,0.0,de,2,-1,,,,,
-Nutella,Nutella,LOC,-1.0,0.0,de,2,-1,,,,,
-Saarland,Saarland,LOC,0.32916666666666666,0.5833333333333333,de,2,-1,,,,,
-Poppichl,Poppichl,LOC,-0.5,0.0,de,2,-1,,,,,
-UNHCR-Chef,UNHCR-Chef,LOC,0.0,0.0,de,2,-1,,,,,
-Geldhahn,Geldhahn,LOC,0.0,0.0,de,2,-1,,,,,
-Al-Faschir,Al-Faschir,LOC,0.0,0.0,de,2,-1,,,,,
-München,München,LOC,0.0,1.0,de,2,-1,,,,,
-Eisbach,Eisbach,LOC,0.0,1.0,de,2,-1,,,,,
-Bursa,Bursa,LOC,-0.3333333333333333,0.6666666666666666,de,2,-1,,,,,
-Klimaziele,Klimaziele,LOC,0.0,0.0,de,2,-1,,,,,
-Wechselburg,Wechselburg,LOC,0.0,0.0,de,2,-1,,,,,
-Herausforderungen,Herausforderungen,LOC,0.0,0.0,de,2,-1,,,,,
-Brückl,Brückl,LOC,-0.35,0.0,de,2,-1,,,,,
-Staaten,Staaten,LOC,-0.5,0.5,de,2,-1,,,,,
-Schlosspark Pillnitz,Schlosspark Pillnitz,LOC,-0.7,0.0,de,2,-1,,,,,
-Waldfläche,Waldfläche,LOC,0.0,0.0,de,2,-1,,,,,
-Englischen Garten,Englischen Garten,LOC,0.0,1.0,de,2,-1,,,,,
-Nairobi,Nairobi,LOC,0.0,0.0,de,2,-1,,,,,
-Gaza,Gaza,LOC,-0.175,0.25,de,2,-1,,,,,
-Brüssel,Brüssel,LOC,0.0,0.0,de,2,-1,,,,,
-Hitze-Perioden,Hitze-Perioden,LOC,0.0,0.0,de,2,-1,,,,,
-Vorsorge,Vorsorge,LOC,-0.35,0.0,de,2,-1,,,,,
-Volksentscheid,Volksentscheid,LOC,-0.7,0.0,de,2,-1,,,,,
-Sarajevo,Sarajevo,LOC,0.0,0.0,de,2,-1,,,,,
-Krisengebieten,Krisengebieten,LOC,0.0,0.0,de,2,-1,,,,,
-Pischeldorf,Pischeldorf,LOC,-0.35,0.0,de,2,-1,,,,,
-Urmiasee,Urmiasee,LOC,1.0,0.0,de,1,-1,,,,,
-Ostens,Ostens,LOC,1.0,0.0,de,1,-1,,,,,
-Trockenperiode …,Trockenperiode …,LOC,0.0,0.0,de,1,-1,,,,,
-Steiermark,Steiermark,LOC,0.0,0.0,de,1,-1,,,,,
-Japan,Japan,LOC,0.0,0.0,de,1,-1,,,,,
-Umweltminister,Umweltminister,LOC,0.0,0.0,de,1,-1,,,,,
-Oberösterreich,Oberösterreich,LOC,0.0,0.0,de,1,-1,,,,,
-Schwimmbad,Schwimmbad,LOC,0.0,0.0,de,1,-1,,,,,
-Marktplatzes,Marktplatzes,LOC,0.7,0.0,de,1,-1,,,,,
-Lichtenrader Reviers,Lichtenrader Reviers,LOC,0.7,0.0,de,1,-1,,,,,
-Kiez,Kiez,LOC,0.0,0.0,de,1,-1,,,,,
-Berlins,Berlins,LOC,0.7,0.0,de,1,-1,,,,,
-Oval Office…,Oval Office…,LOC,0.0,0.0,de,1,-1,,,,,
-Abendstunden,Abendstunden,LOC,-1.0,0.0,de,1,-1,,,,,
-Anatolien,Anatolien,LOC,0.0,0.0,de,1,-1,,,,,
-Kommunen,Kommunen,LOC,0.0,0.0,de,1,-1,,,,,
-Hitze,Hitze,LOC,0.0,0.0,de,1,-1,,,,,
-Nordschwaben,Nordschwaben,LOC,0.0,0.0,de,1,-1,,,,,
-Nordbayern,Nordbayern,LOC,-0.7,0.0,de,1,-1,,,,,
-Franken,Franken,LOC,0.0,0.0,de,1,-1,,,,,
-Terroranschlägen,Terroranschlägen,LOC,0.0,0.0,de,1,-1,,,,,
-Bergen,Bergen,LOC,-1.0,0.0,de,1,-1,,,,,
-Peine,Peine,LOC,-1.0,0.0,de,1,-1,,,,,
-Syrien,Syrien,LOC,0.0,0.0,de,1,-1,,,,,
-Pillnitz,Pillnitz,LOC,0.0,0.0,de,1,-1,,,,,
-Amazonas,Amazonas,LOC,-1.0,0.0,de,1,-1,,,,,
-NRW,NRW,LOC,0.0,0.0,de,1,-1,,,,,
-Fleischkonsum,Fleischkonsum,LOC,0.0,0.0,de,1,-1,,,,,
-Bundesministerium,Bundesministerium,LOC,0.0,0.0,de,1,-1,,,,,
-New Mexico,New Mexico,LOC,0.0,0.0,de,1,-1,,,,,
-US-Bundesstaat,US-Bundesstaat,LOC,0.0,0.0,de,1,-1,,,,,
-Verbre…,Verbre…,LOC,0.0,0.0,de,1,-1,,,,,
-Stauseen,Stauseen,LOC,-0.925,0.0,de,1,-1,,,,,
-Südamerika,Südamerika,LOC,0.0,0.0,de,1,-1,,,,,
-Maschhad,Maschhad,LOC,0.0,0.0,de,1,-1,,,,,
-Baruth/Mark,Baruth/Mark,LOC,-0.7,0.0,de,1,-1,,,,,
-New Yorker,New Yorker,LOC,0.0,0.0,de,1,-1,,,,,
-Kanzler-Büro,Kanzler-Büro,LOC,0.0,0.0,de,1,-1,,,,,
-Österreich,Österreich,LOC,0.0,0.0,de,1,-1,,,,,
-Anselm-Kiefer-Bild,Anselm-Kiefer-Bild,LOC,0.0,0.0,de,1,-1,,,,,
-Eferding,Eferding,LOC,0.0,0.0,de,1,-1,,,,,
-Konfliktregionen,Konfliktregionen,LOC,0.0,0.0,de,1,-1,,,,,
-Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,1,-1,,,,,
-Sambias,Sambias,LOC,0.0,0.0,de,1,-1,,,,,
-Schmelzwasser,Schmelzwasser,LOC,0.0,0.0,de,1,-1,,,,,
-Wien,Wien,LOC,0.0,0.0,de,1,-1,,,,,
-Sauerkirschen,Sauerkirschen,LOC,0.0,0.0,de,1,-1,,,,,
-Waldbränden,Waldbränden,LOC,0.0,0.0,de,1,-1,,,,,
-Schädlingen,Schädlingen,LOC,0.0,0.0,de,1,-1,,,,,
-Bad Eisenkappel,Bad Eisenkappel,LOC,0.0,0.0,de,1,-1,,,,,
-Tiefstwerte,Tiefstwerte,LOC,0.0,0.0,de,1,-1,,,,,
-Klimawa…,Klimawa…,LOC,-0.2333333333333333,0.0,de,1,-1,,,,,
-Klima-Schocks,Klima-Schocks,LOC,0.0,0.0,de,1,-1,,,,,
-Kuchenbaum,Kuchenbaum,LOC,0.7,0.0,de,1,-1,,,,,
-Trompetenbaum,Trompetenbaum,LOC,0.7,0.0,de,1,-1,,,,,
-Tulpenbaum,Tulpenbaum,LOC,0.7,0.0,de,1,-1,,,,,
-Griechenland-Fans,Griechenland-Fans,LOC,0.0,0.0,de,1,-1,,,,,
-Touris,Touris,LOC,0.0,0.0,de,1,-1,,,,,
-Top-Urlaubsziele,Top-Urlaubsziele,LOC,0.0,0.0,de,1,-1,,,,,
-Händewaschen,Händewaschen,LOC,0.0,0.0,de,1,-1,,,,,
-Miyun,Miyun,LOC,0.0,0.0,de,1,-1,,,,,
-Trockenen,Trockenen,LOC,-1.0,0.0,de,1,-1,,,,,
-Landwirtschaftskammer Oberösterreich,Landwirtschaftskammer Oberösterreich,LOC,0.5,0.5,de,1,-1,,,,,
-Linz,Linz,LOC,0.7,0.0,de,1,-1,,,,,
-Herbsternte,Herbsternte,LOC,0.0,0.0,de,1,-1,,,,,
-Jahrtausenden,Jahrtausenden,LOC,1.0,0.0,de,1,-1,,,,,
-Essen,Essen,LOC,0.0,1.0,de,1,-1,,,,,
-Abu Dhabi veröff…,Abu Dhabi veröff…,LOC,0.0,0.0,de,1,-1,,,,,
-Gaza-Stadt,Gaza-Stadt,LOC,-0.15000000000000002,0.0,de,1,-1,,,,,
-Älpler,Älpler,LOC,0.0,0.0,de,1,-1,,,,,
-Senklöcher,Senklöcher,LOC,-1.0,0.0,de,1,-1,,,,,
-Gletscher-Sterben,Gletscher-Sterben,LOC,-0.2333333333333333,0.0,de,1,-1,,,,,
-Österreichs Staatsfläche,Österreichs Staatsfläche,LOC,0.0,0.0,de,1,-1,,,,,
-MV,MV,LOC,0.0,0.0,de,1,-1,,,,,
-Himalaya,Himalaya,LOC,0.0,0.0,de,1,-1,,,,,
-Lobzang D…,Lobzang D…,LOC,0.0,0.0,de,1,-1,,,,,
-Chile,Chile,LOC,0.0,0.0,de,1,-1,,,,,
-Corona-Pandemie,Corona-Pandemie,LOC,0.0,0.0,de,1,-1,,,,,
-Mornos-Stausee,Mornos-Stausee,LOC,0.0,0.0,de,1,-1,,,,,
-Kallio,Kallio,LOC,0.0,0.0,de,1,-1,,,,,
-Hauptstadt,Hauptstadt,LOC,1.0,0.0,de,1,-1,,,,,
-Tours,Tours,LOC,1.0,0.0,de,1,-1,,,,,
-Nestlé-Pflanzenlabor,Nestlé-Pflanzenlabor,LOC,1.0,0.0,de,1,-1,,,,,
-Produktionsbetriebe,Produktionsbetriebe,LOC,-1.0,0.0,de,1,-1,,,,,
-Notlagen,Notlagen,LOC,0.85,0.0,de,1,-1,,,,,
-Grund,Grund,LOC,0.0,0.0,de,1,-1,,,,,
-Amazonas-Regenwald,Amazonas-Regenwald,LOC,0.0,0.0,de,1,-1,,,,,
-Heizwärme,Heizwärme,LOC,1.0,0.0,de,1,-1,,,,,
-t3n.de,t3n.de,LOC,1.0,0.0,de,1,-1,,,,,
-Heizkurve,Heizkurve,LOC,0.5666666666666667,0.3333333333333333,de,1,-1,,,,,
-Griechenlands,Griechenlands,LOC,0.0,0.0,de,1,-1,,,,,
-Bezirk Klagenfurt-…,Bezirk Klagenfurt-…,LOC,0.0,0.0,de,1,-1,,,,,
-Maria Saal,Maria Saal,LOC,0.0,0.0,de,1,-1,,,,,
-Klagenfurt,Klagenfurt,LOC,-1.0,0.0,de,1,-1,,,,,
-Piemont,Piemont,LOC,0.0,0.0,de,1,-1,,,,,
-Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,LOC,-0.5,0.5,de,1,-1,,,,,
-Dreimaster,Dreimaster,LOC,-0.7,0.0,de,1,-1,,,,,
-Privacy Center,Privacy Center,LOC,0.0,0.0,de,1,-1,,,,,
-Bewohner,Bewohner,LOC,0.0,0.0,de,1,-1,,,,,
-Frauenkleidern am Geschütz,Frauenkleidern am Geschütz,LOC,0.0,0.0,de,1,-1,,,,,
-Würde,Würde,LOC,0.0,0.0,de,1,-1,,,,,
-Klimakrise,Klimakrise,LOC,0.0,0.0,de,1,-1,,,,,
-EU-Vorgaben,EU-Vorgaben,LOC,0.0,0.0,de,1,-1,,,,,
-Börsenspekulationen,Börsenspekulationen,LOC,0.0,0.0,de,1,-1,,,,,
-Kaffee-Preisschock,Kaffee-Preisschock,LOC,0.5,0.5,de,1,-1,,,,,
-Umständen,Umständen,LOC,0.0,0.0,de,1,-1,,,,,
-Bremen,Bremen,LOC,0.0,0.0,de,1,-1,,,,,
-Eferdinger Becken,Eferdinger Becken,LOC,0.0,0.0,de,1,-1,,,,,
+,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc
+Iran,Iran,LOC,-0.29352310,0.22070957,de,40.40000000,4027653-3,130758,A,32.0,53.0,ASIA,Iran,WCA
+Teheran,Teheran,LOC,-0.49782609,0.13043478,de,11.50000000,4059304-6,112931,P,35.69439,51.42151,ASIA,Iran,WCA
+Deutschland,Deutschland,LOC,-0.04166667,0.09615385,de,10.40000000,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE
+Spanien,Spanien,LOC,0.11666667,0.16666667,de,9.00000000,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED
+Italien,Italien,LOC,-0.09523810,0.00000000,de,6.30000000,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED
+Allgäu,Allgäu,LOC,-0.11000000,0.00000000,de,5.00000000,4030234-9,2891621,P,47.72674,10.31389,EUROPE,Germany,WCE
+Türkei,Türkei,LOC,-0.48299320,1.49659864,de,4.90000000,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED
+China,China,LOC,0.34375000,0.10416667,de,4.80000000,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS
+Europa,Europa,LOC,-0.15942029,0.00000000,de,4.60000000,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE
+Brasilien,Brasilien,LOC,0.00000000,0.00000000,de,4.20000000,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM
+Trab,Trab,LOC,-0.17500000,0.00000000,de,4.00000000,,2596174,L,31.14459,-6.56317,EUROPE-AFRICA,Morocco,MED
+Oberbayern,Oberbayern,LOC,-0.17500000,0.00000000,de,4.00000000,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE
+Bodensee,Bodensee,LOC,0.42500000,0.00000000,de,4.00000000,4007403-1,11919717,L,47.61495,9.39765,EUROPE,,WCE
+Irans,Irans,LOC,0.52631579,0.00000000,de,3.80000000,,0,,,,,,
+Landes,Landes,LOC,0.00000000,0.00000000,de,3.70000000,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED
+…,…,LOC,0.21875000,0.00000000,de,3.20000000,,0,,,,,,
+Sudan,Sudan,LOC,-0.23333333,0.00000000,de,3.00000000,4058378-8,366755,A,16.0,30.0,AFRICA,Sudan,SAH
+Park Wechselburg,Park Wechselburg,LOC,0.00000000,0.00000000,de,3.00000000,,0,,,,,,
+Madagaskar,Madagaskar,LOC,0.00000000,0.00000000,de,3.00000000,4074425-5,1062947,A,-20.0,47.0,AFRICA,Madagascar,MDG
+Schlosspark Wechselburg,Schlosspark Wechselburg,LOC,0.00000000,0.33333333,de,3.00000000,,0,,,,,,
+Sachsen,Sachsen,LOC,-0.12068966,0.51724138,de,2.90000000,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE
+Dürre,Dürre,LOC,0.24137931,0.00000000,de,2.90000000,,2934402,T,50.63333,13.3,EUROPE,Germany,WCE
+Australiens,Australiens,LOC,-0.71428571,0.35714286,de,2.80000000,,0,,,,,,
+Regengebeten,Regengebeten,LOC,0.00000000,0.00000000,de,2.80000000,,0,,,,,,
+Bayern,Bayern,LOC,0.00000000,0.00000000,de,2.80000000,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE
+Wolkenimpfen,Wolkenimpfen,LOC,0.00000000,0.00000000,de,2.80000000,,0,,,,,,
+Wassermangel,Wassermangel,LOC,0.00000000,0.00000000,de,2.80000000,,7911102,P,51.33281,6.95615,EUROPE,Germany,WCE
+Berlin,Berlin,LOC,-0.72222222,1.11111111,de,2.70000000,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE
+Irak,Irak,LOC,0.00000000,0.00000000,de,2.40000000,4072920-5,99237,A,33.0,44.0,ASIA,Iraq,WCA
+Bayerns,Bayerns,LOC,0.47826087,0.00000000,de,2.30000000,,0,,,,,,
+Niedersachsen,Niedersachsen,LOC,-0.45454545,0.00000000,de,2.20000000,4042226-4,2862926,A,52.83333,9.16667,EUROPE,Germany,WCE
+Athen,Athen,LOC,-0.31818182,0.00000000,de,2.20000000,4003366-1,264371,P,37.98376,23.72784,EUROPE-AFRICA,Greece,MED
+Klimawandel,Klimawandel,LOC,-0.33333333,0.47619048,de,2.10000000,,0,,,,,,
+Mandeln,Mandeln,LOC,-0.35000000,0.00000000,de,2.00000000,10160779-9,2873982,P,50.85078,8.33897,EUROPE,Germany,WCE
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.35000000,0.00000000,de,2.00000000,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE
+Brückl,Brückl,LOC,-0.35000000,0.00000000,de,2.00000000,4762165-5,2781364,P,46.75167,14.53667,EUROPE,Austria,WCE
+Pischeldorf,Pischeldorf,LOC,-0.35000000,0.00000000,de,2.00000000,407643-6,2768763,P,46.68333,14.45,EUROPE,Austria,WCE
+Wechselburg,Wechselburg,LOC,0.00000000,0.00000000,de,2.00000000,4064919-2,2813524,P,51.00214,12.77661,EUROPE,Germany,WCE
+Herausforderungen,Herausforderungen,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Sizilien,Sizilien,LOC,0.00000000,0.00000000,de,2.00000000,4055193-3,2523118,T,37.62304,13.93457,EUROPE-AFRICA,Italy,MED
+Glan,Glan,LOC,-0.50000000,0.00000000,de,2.00000000,,1221704,T,37.88069,74.89885,ASIA,Tajikistan,WCA
+Al-Faschir,Al-Faschir,LOC,0.00000000,0.00000000,de,2.00000000,4339018-3,379555,P,13.62793,25.34936,AFRICA,Sudan,CAF
+Mali,Mali,LOC,-0.35000000,0.00000000,de,2.00000000,4074505-3,2453866,A,18.0,-2.0,AFRICA,Mali,SAH
+Waldfläche,Waldfläche,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Gaza,Gaza,LOC,-0.17500000,0.25000000,de,2.00000000,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED
+Poppichl,Poppichl,LOC,-0.50000000,0.00000000,de,2.00000000,,2768504,P,46.66417,14.30222,EUROPE,Austria,WCE
+Krisengebieten,Krisengebieten,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Forbach,Forbach,LOC,-0.35000000,0.00000000,de,2.00000000,4387431-9,3017805,P,49.18848,6.89255,EUROPE,France,WCE
+Universität Innsbruck,Universität Innsbruck,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.70000000,0.00000000,de,2.00000000,,0,,,,,,
+Madrid,Madrid,LOC,0.70000000,0.00000000,de,2.00000000,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED
+Bursa,Bursa,LOC,-0.33333333,0.66666667,de,2.00000000,4009173-9,750269,P,40.19559,29.06013,EUROPE-AFRICA,Turkey,MED
+Rekordtempo,Rekordtempo,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Rajoelina,Rajoelina,LOC,0.00000000,0.00000000,de,2.00000000,,0,,,,,,
+Brandenburg,Brandenburg,LOC,-0.28947368,0.00000000,de,1.90000000,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE
+Belém,Belém,LOC,-0.89473684,0.52631579,de,1.90000000,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES
+Vorsorge,Vorsorge,LOC,-0.36842105,0.00000000,de,1.90000000,,0,,,,,,
+München,München,LOC,0.00000000,1.05263158,de,1.90000000,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE
+Provinz West-Aserbaidschan,Provinz West-Aserbaidschan,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Englischen Garten,Englischen Garten,LOC,0.00000000,1.05263158,de,1.90000000,,6470958,S,48.1413,11.5875,EUROPE,Germany,WCE
+Chile,Chile,LOC,-0.36842105,0.00000000,de,1.90000000,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS
+UNHCR-Chef,UNHCR-Chef,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Niederschläge,Niederschläge,LOC,-1.05263158,0.00000000,de,1.90000000,,0,,,,,,
+Ettelaat,Ettelaat,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Anpassungsstrategien,Anpassungsstrategien,LOC,0.00000000,0.00000000,de,1.90000000,,0,,,,,,
+Eisbach,Eisbach,LOC,0.00000000,1.05263158,de,1.90000000,,7873397,A,47.13377,15.27246,EUROPE,Austria,WCE
+Sahara,Sahara,LOC,-0.43750000,0.62500000,de,1.60000000,4051293-9,2212709,T,26.0,13.0,AFRICA,Libya,SAH
+Brüssel,Brüssel,LOC,0.00000000,0.00000000,de,1.60000000,4008460-7,2800866,P,50.85045,4.34878,EUROPE,Belgium,WCE
+Bund,Bund,LOC,0.46666667,0.00000000,de,1.50000000,,10519668,L,20.49241,79.45535,ASIA,India,SAS
+Pariser,Pariser,LOC,0.00000000,0.00000000,de,1.40000000,,2943127,T,47.40555,11.28725,EUROPE,Germany,WCE
+Klimaziele,Klimaziele,LOC,0.00000000,0.00000000,de,1.40000000,,0,,,,,,
+Baruth,Baruth,LOC,0.53846154,0.00000000,de,1.30000000,,7602464,A,52.05,13.5,EUROPE,Germany,WCE
+Afrika,Afrika,LOC,0.76923077,0.00000000,de,1.30000000,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF
+Kenia,Kenia,LOC,0.76923077,0.00000000,de,1.30000000,4030236-2,192950,A,1.0,38.0,AFRICA,Kenya,SEAF
+See,See,LOC,0.53846154,0.00000000,de,1.30000000,1294128485,3082253,H,53.65794,14.32949,EUROPE,Poland,WCE
+Artensterben,Artensterben,LOC,-0.33333333,0.00000000,de,1.30000000,,0,,,,,,
+Soja,Soja,LOC,1.53846154,0.00000000,de,1.30000000,,1856507,A,36.38333,139.03333,ASIA,Japan,EAS
+Getränke-Produktion,Getränke-Produktion,LOC,0.00000000,0.00000000,de,1.20000000,,0,,,,,,
+Karibik,Karibik,LOC,-1.16666667,0.00000000,de,1.20000000,4073241-1,7729891,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR
+den USA,den USA,LOC,-0.41666667,0.41666667,de,1.20000000,4011446-6,2747373,P,52.07667,4.29861,EUROPE,The Netherlands,NEU
+Brandenburgs,Brandenburgs,LOC,-0.58333333,0.00000000,de,1.20000000,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE
+Berliner Abgeordnetenhaus,Berliner Abgeordnetenhaus,LOC,-0.58333333,0.00000000,de,1.20000000,,0,,,,,,
+Augsburg,Augsburg,LOC,1.16666667,0.00000000,de,1.20000000,4003614-5,2954172,P,48.37154,10.89851,EUROPE,Germany,WCE
+Staaten,Staaten,LOC,-0.83333333,0.83333333,de,1.20000000,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA
+Arabische Staaten,Arabische Staaten,LOC,0.00000000,0.90909091,de,1.10000000,,0,,,,,,
+Japans,Japans,LOC,0.00000000,0.00000000,de,1.10000000,,0,,,,,,
+US-Präsident,US-Präsident,LOC,-0.90909091,0.00000000,de,1.10000000,,0,,,,,,
+Freistaat,Freistaat,LOC,0.63636364,0.00000000,de,1.10000000,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE
+Erde,Erde,LOC,0.00000000,0.00000000,de,1.10000000,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO
+Nutella,Nutella,LOC,-1.81818182,0.00000000,de,1.10000000,,0,,,,,,
+Mascara,Mascara,LOC,0.90909091,0.00000000,de,1.10000000,,2490098,P,35.39664,0.14027,EUROPE-AFRICA,Algeria,MED
+Europas,Europas,LOC,0.63636364,0.00000000,de,1.10000000,,0,,,,,,
+Hitze-Perioden,Hitze-Perioden,LOC,0.00000000,0.00000000,de,1.10000000,,0,,,,,,
+Andalusien,Andalusien,LOC,-1.27272727,0.00000000,de,1.10000000,4001909-3,2593109,A,37.5,-4.58333,EUROPE-AFRICA,Spain,MED
+Volksentscheid,Volksentscheid,LOC,-1.27272727,0.00000000,de,1.10000000,,0,,,,,,
+Geldhahn,Geldhahn,LOC,0.00000000,0.00000000,de,1.10000000,,0,,,,,,
+Kent,Kent,LOC,0.00000000,0.00000000,de,1.10000000,4030253-2,5799625,P,47.38093,-122.23484,NORTH-AMERICA,United States,WNA
+Sarajevo,Sarajevo,LOC,0.00000000,0.00000000,de,1.10000000,4077016-3,3191281,P,43.84864,18.35644,EUROPE-AFRICA,Bosnia and Herzegovina,MED
+Schlosspark Pillnitz,Schlosspark Pillnitz,LOC,-1.27272727,0.00000000,de,1.10000000,,0,,,,,,
+Brasiliens,Brasiliens,LOC,0.00000000,0.00000000,de,1.10000000,,0,,,,,,
+Nairobi,Nairobi,LOC,0.00000000,0.00000000,de,1.10000000,4041172-2,184745,P,-1.28333,36.81667,AFRICA,Kenya,SEAF
+Saarland,Saarland,LOC,0.59848485,1.06060606,de,1.10000000,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE
+Malawi,Malawi,LOC,0.00000000,1.81818182,de,1.10000000,4074495-4,927384,A,-13.5,34.0,AFRICA,Malawi,ESAF
+Trockenperiode …,Trockenperiode …,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Japan,Japan,LOC,0.00000000,0.00000000,de,1.00000000,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS
+Kiez,Kiez,LOC,0.00000000,0.00000000,de,1.00000000,,2890938,P,53.38162,11.57937,EUROPE,Germany,WCE
+Abendstunden,Abendstunden,LOC,-1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Marktplatzes,Marktplatzes,LOC,0.70000000,0.00000000,de,1.00000000,,12196059,S,50.24243,11.32602,EUROPE,Germany,WCE
+Berlins,Berlins,LOC,0.70000000,0.00000000,de,1.00000000,,2193381,T,-41.9,171.83333,OCEANIA,New Zealand,NZ
+Lichtenrader Reviers,Lichtenrader Reviers,LOC,0.70000000,0.00000000,de,1.00000000,,0,,,,,,
+Anselm-Kiefer-Bild,Anselm-Kiefer-Bild,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Kanzler-Büro,Kanzler-Büro,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+New Yorker,New Yorker,LOC,0.00000000,0.00000000,de,1.00000000,,5225847,T,41.52566,-71.53784,NORTH-AMERICA,United States,ENA
+Oval Office…,Oval Office…,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Mittelmeerraum,Mittelmeerraum,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Baruth/Mark,Baruth/Mark,LOC,-0.70000000,0.00000000,de,1.00000000,4550655-3,7602464,A,52.05,13.5,EUROPE,Germany,WCE
+Nordschwaben,Nordschwaben,LOC,0.00000000,0.00000000,de,1.00000000,1295012987,2861874,P,47.61871,7.81713,EUROPE,Germany,WCE
+NÖ,NÖ,LOC,0.35000000,0.50000000,de,1.00000000,,624883,H,52.36671,25.6263,EUROPE,Belarus,WCE
+Klosterneuburg,Klosterneuburg,LOC,0.35000000,0.50000000,de,1.00000000,4031235-5,2773913,P,48.30521,16.32522,EUROPE,Austria,WCE
+Andengletscher,Andengletscher,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+“,“,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Eferdinger Becken,Eferdinger Becken,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Oberösterreich,Oberösterreich,LOC,0.00000000,0.00000000,de,1.00000000,4074255-6,2772400,P,48.30639,14.28611,EUROPE,Austria,WCE
+Steiermark,Steiermark,LOC,0.00000000,0.00000000,de,1.00000000,4057092-7,2764581,A,47.25,15.16667,EUROPE,Austria,WCE
+Bundesministerium,Bundesministerium,LOC,0.00000000,0.00000000,de,1.00000000,,8604996,S,50.70545,7.13926,EUROPE,Germany,WCE
+Eferding,Eferding,LOC,0.00000000,0.00000000,de,1.00000000,4092326-5,2780394,P,48.30866,14.02233,EUROPE,Austria,WCE
+Österreich,Österreich,LOC,0.00000000,0.00000000,de,1.00000000,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE
+Fleischkonsum,Fleischkonsum,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Syrien,Syrien,LOC,0.00000000,0.00000000,de,1.00000000,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED
+Kommunen,Kommunen,LOC,0.00000000,0.00000000,de,1.00000000,4115052-1,2994935,P,48.30337,-0.61383,EUROPE,France,WCE
+Hitze,Hitze,LOC,0.00000000,0.00000000,de,1.00000000,,2903464,S,50.36667,12.0,EUROPE,Germany,WCE
+Nordbayern,Nordbayern,LOC,-0.70000000,0.00000000,de,1.00000000,,0,,,,,,
+Maschhad,Maschhad,LOC,0.00000000,0.00000000,de,1.00000000,4115118-5,124665,P,36.29807,59.60567,ASIA,Iran,WCA
+Franken,Franken,LOC,0.00000000,0.00000000,de,1.00000000,4018093-1,2803465,L,50.0,9.0,EUROPE,Germany,WCE
+Schwimmbad,Schwimmbad,LOC,0.00000000,0.00000000,de,1.00000000,,6269516,L,50.54825,7.2198,EUROPE,Germany,WCE
+Bergen,Bergen,LOC,-1.00000000,0.00000000,de,1.00000000,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU
+Peine,Peine,LOC,-1.00000000,0.00000000,de,1.00000000,4045022-3,6623044,T,-63.40943,-54.71877,SOUTHERN,Antarctica,SOO
+Pillnitz,Pillnitz,LOC,0.00000000,0.00000000,de,1.00000000,4091232-2,2853707,P,51.0073,13.87565,EUROPE,Germany,WCE
+Amazonas,Amazonas,LOC,-1.00000000,0.00000000,de,1.00000000,4001626-2,3689982,A,-1.16667,-71.5,SOUTH-AMERICA,Colombia,NSA
+NRW,NRW,LOC,0.00000000,0.00000000,de,1.00000000,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE
+Anatolien,Anatolien,LOC,0.00000000,0.00000000,de,1.00000000,4085685-9,323835,L,39.0,35.0,EUROPE-AFRICA,Turkey,MED
+Konfliktregionen,Konfliktregionen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+New Mexico,New Mexico,LOC,0.00000000,0.00000000,de,1.00000000,4217452-1,5454711,P,35.08449,-106.65114,NORTH-AMERICA,United States,WNA
+US-Bundesstaat,US-Bundesstaat,LOC,0.00000000,0.00000000,de,1.00000000,4224069-4,5110302,P,40.6501,-73.94958,NORTH-AMERICA,United States,ENA
+Verbre…,Verbre…,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Stauseen,Stauseen,LOC,-0.92500000,0.00000000,de,1.00000000,,0,,,,,,
+Südamerika,Südamerika,LOC,0.00000000,0.00000000,de,1.00000000,4078014-4,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM
+Terroranschlägen,Terroranschlägen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,LOC,-0.50000000,0.50000000,de,1.00000000,,0,,,,,,
+Umweltminister,Umweltminister,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Top-Urlaubsziele,Top-Urlaubsziele,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Himalaya,Himalaya,LOC,0.00000000,0.00000000,de,1.00000000,4024923-2,1252558,T,28.0,84.0,ASIA,Nepal,TIB
+Wien,Wien,LOC,0.00000000,0.00000000,de,1.00000000,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE
+Sauerkirschen,Sauerkirschen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Waldbränden,Waldbränden,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Schädlingen,Schädlingen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Bad Eisenkappel,Bad Eisenkappel,LOC,0.00000000,0.00000000,de,1.00000000,4355632-2,2780196,P,46.48841,14.59139,EUROPE,Austria,WCE
+Tiefstwerte,Tiefstwerte,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Klimawa…,Klimawa…,LOC,-0.23333333,0.00000000,de,1.00000000,,0,,,,,,
+Klima-Schocks,Klima-Schocks,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Kuchenbaum,Kuchenbaum,LOC,0.70000000,0.00000000,de,1.00000000,,0,,,,,,
+Trompetenbaum,Trompetenbaum,LOC,0.70000000,0.00000000,de,1.00000000,,0,,,,,,
+Tulpenbaum,Tulpenbaum,LOC,0.70000000,0.00000000,de,1.00000000,,0,,,,,,
+Griechenland-Fans,Griechenland-Fans,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Touris,Touris,LOC,0.00000000,0.00000000,de,1.00000000,,2262549,P,38.90726,-7.53425,EUROPE-AFRICA,Portugal,MED
+Händewaschen,Händewaschen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Urmiasee,Urmiasee,LOC,1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Miyun,Miyun,LOC,0.00000000,0.00000000,de,1.00000000,,2035740,A,40.53013,116.9873,ASIA,China,EAS
+Trockenen,Trockenen,LOC,-1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Landwirtschaftskammer Oberösterreich,Landwirtschaftskammer Oberösterreich,LOC,0.50000000,0.50000000,de,1.00000000,,0,,,,,,
+Linz,Linz,LOC,0.70000000,0.00000000,de,1.00000000,4074255-6,2772400,P,48.30639,14.28611,EUROPE,Austria,WCE
+Herbsternte,Herbsternte,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Jahrtausenden,Jahrtausenden,LOC,1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Essen,Essen,LOC,0.00000000,1.00000000,de,1.00000000,4015557-2,2928810,P,51.45657,7.01228,EUROPE,Germany,WCE
+Abu Dhabi veröff…,Abu Dhabi veröff…,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Gaza-Stadt,Gaza-Stadt,LOC,-0.15000000,0.00000000,de,1.00000000,,0,,,,,,
+Älpler,Älpler,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Senklöcher,Senklöcher,LOC,-1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Gletscher-Sterben,Gletscher-Sterben,LOC,-0.23333333,0.00000000,de,1.00000000,,0,,,,,,
+Österreichs Staatsfläche,Österreichs Staatsfläche,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+MV,MV,LOC,0.00000000,0.00000000,de,1.00000000,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB
+Schmelzwasser,Schmelzwasser,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Lobzang D…,Lobzang D…,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Corona-Pandemie,Corona-Pandemie,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Bremen,Bremen,LOC,0.00000000,0.00000000,de,1.00000000,4090044-7,2944388,P,53.07582,8.80717,EUROPE,Germany,NEU
+Ostens,Ostens,LOC,1.00000000,0.00000000,de,1.00000000,,3013134,P,44.49273,-0.63963,EUROPE-AFRICA,France,MED
+Sambias,Sambias,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Mornos-Stausee,Mornos-Stausee,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Kallio,Kallio,LOC,0.00000000,0.00000000,de,1.00000000,,654706,P,60.18427,24.95034,EUROPE,Finland,NEU
+Hauptstadt,Hauptstadt,LOC,1.00000000,0.00000000,de,1.00000000,4076310-9,3067696,P,50.08804,14.42076,EUROPE,Czechia,WCE
+Tours,Tours,LOC,1.00000000,0.00000000,de,1.00000000,4060530-9,2972191,P,47.39484,0.70398,EUROPE,France,WCE
+Nestlé-Pflanzenlabor,Nestlé-Pflanzenlabor,LOC,1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Produktionsbetriebe,Produktionsbetriebe,LOC,-1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Notlagen,Notlagen,LOC,0.85000000,0.00000000,de,1.00000000,,0,,,,,,
+Grund,Grund,LOC,0.00000000,0.00000000,de,1.00000000,,3247407,U,54.66667,7.55,EUROPE,,NEU
+Amazonas-Regenwald,Amazonas-Regenwald,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Heizwärme,Heizwärme,LOC,1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+t3n.de,t3n.de,LOC,1.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Heizkurve,Heizkurve,LOC,0.56666667,0.33333333,de,1.00000000,,0,,,,,,
+Griechenlands,Griechenlands,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Bezirk Klagenfurt-…,Bezirk Klagenfurt-…,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Maria Saal,Maria Saal,LOC,0.00000000,0.00000000,de,1.00000000,4037518-3,2771910,P,46.68083,14.34861,EUROPE,Austria,WCE
+Klagenfurt,Klagenfurt,LOC,-1.00000000,0.00000000,de,1.00000000,4030921-6,2774326,P,46.62472,14.30528,EUROPE,Austria,WCE
+Piemont,Piemont,LOC,0.00000000,0.00000000,de,1.00000000,4046039-3,3170831,A,45.0,8.0,EUROPE,Italy,WCE
+Dreimaster,Dreimaster,LOC,-0.70000000,0.00000000,de,1.00000000,,3357896,T,-27.5689,15.46096,AFRICA,Namibia,WSAF
+Privacy Center,Privacy Center,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Bewohner,Bewohner,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Frauenkleidern am Geschütz,Frauenkleidern am Geschütz,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Würde,Würde,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Klimakrise,Klimakrise,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+EU-Vorgaben,EU-Vorgaben,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Börsenspekulationen,Börsenspekulationen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+Kaffee-Preisschock,Kaffee-Preisschock,LOC,0.50000000,0.50000000,de,1.00000000,,0,,,,,,
+Umständen,Umständen,LOC,0.00000000,0.00000000,de,1.00000000,,0,,,,,,
+der Schweiz,der Schweiz,LOC,0.35000000,0.50000000,de,1.00000000,,2661324,P,47.14035,7.37175,EUROPE,Switzerland,WCE
