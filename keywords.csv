@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.3912896796125
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.3540136260081249
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.3345660348868431
-'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.3308745474677839
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.31415983309875
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.3122224264288015
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,2,0.3019368004026964
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,2,0.2954385647978677
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.2881138753057414
+'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.2861956153476163
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.2232049512441853
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.2204109412282186
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.2163185852927047
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.1950157933259854
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1726050441285392
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.17075273213915296
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.1707527321391529
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1698935058214137
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1618396064261028
