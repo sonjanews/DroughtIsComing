@@ -23,5 +23,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1618396064261028
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.1037951664574057
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.1024182302426686
-'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.10197578152561863
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.090248626750459
+'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.08667941429677581
