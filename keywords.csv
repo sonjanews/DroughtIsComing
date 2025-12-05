@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1726050441285392
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1618396064261028
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1447095099482016
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.12330311345597135
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.1024182302426686
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0882258914887948
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0643993102179267
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.04004379513500811
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0400437951350081
