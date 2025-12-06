@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.2998564402946624
-'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.29567432534048194
+'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.2956743253404819
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.2881138753057414
-'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.2809590435103221
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.2653891374644812
+'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.2601296333474101
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.2566466103422919
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2511227950781875
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.2438646628801344
