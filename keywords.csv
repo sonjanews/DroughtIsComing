@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1937052346767697
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1880993750439858
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1618396064261028
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1485144675092583
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.13981389046218737
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1233031134559713
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0882258914887948
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0785920300909606
