@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.2653891374644812
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.2566466103422919
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2511227950781875
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2479187354944725
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.2438646628801344
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.2409648380724564
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.23489749464398582
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.2260609833452986
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.2232049512441853
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.2163185852927047
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1880993750439858
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1485144675092583
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.13981389046218737
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1398138904621873
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1233031134559713
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0882258914887948
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0785920300909606
