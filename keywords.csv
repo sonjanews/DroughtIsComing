@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.5
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.5
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.5
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.5
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.425
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.425
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.425
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.425
