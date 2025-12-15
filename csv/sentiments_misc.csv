@@ -1,8 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,24.999999999999982
-“,“,MISC,-2.3999999999999995,1.0,de,16.199999999999996
+",MISC,,,de,25.89999999999998
+“,“,MISC,-3.0999999999999996,1.0,de,17.099999999999994
 Schweizer,Schweizer,MISC,,,de,4.0
 iranischen,iranischen,MISC,,,de,3.6999999999999997
 iranische,iranische,MISC,,,de,3.6999999999999997
@@ -14,105 +14,107 @@ Klimawandel“,Klimawandel“,MISC,,,de,2.6
 CO2,CO2,MISC,,,de,2.1999999999999997
 deutschen,deutschen,MISC,,,de,2.1
 spanische,spanische,MISC,,,de,2.0
+stern+statt,stern+statt,MISC,,,de,2.0
 Krieg,Krieg,MISC,,,de,2.0
 Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,2.0
-stern+statt,stern+statt,MISC,,,de,2.0
 stern+,stern+,MISC,,,de,2.0
-deutsche,deutsche,MISC,,,de,2.0
 Capital</li><li>4,Capital</li><li>4,MISC,,,de,2.0
-klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,1.9
+deutsche,deutsche,MISC,,,de,2.0
+CO2-Speicher,CO2-Speicher,MISC,,,de,1.9
 a…,a…,MISC,,,de,1.9
 Männer und Frauen,Männer und Frauen,MISC,,,de,1.9
-Erzfeind,Erzfeind,MISC,,,de,1.9
-Ayatollah-Regimes,Ayatollah-Regimes,MISC,,,de,1.9
+europäische,europäische,MISC,,,de,1.9
 Regierung Missmanagement,Regierung Missmanagement,MISC,,,de,1.9
-CO2-Speicher,CO2-Speicher,MISC,,,de,1.9
-WM,WM,MISC,,,de,1.9
-NZZ Format,NZZ Format,MISC,,,de,1.9
-Abgrund der Dürren,Abgrund der Dürren,MISC,,,de,1.9
 hessischen,hessischen,MISC,,,de,1.9
+klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,1.9
+Abgrund der Dürren,Abgrund der Dürren,MISC,,,de,1.9
+NZZ Format,NZZ Format,MISC,,,de,1.9
+WM,WM,MISC,,,de,1.9
+NIS2,NIS2,MISC,,,de,1.9
 Wasser-Streit,Wasser-Streit,MISC,,,de,1.5000000000000004
 Erwärmung,Erwärmung,MISC,,,de,1.3
-Amazon,Amazon,MISC,,,de,1.2000000000000002
-Wassers,Wassers,MISC,0.0,0.0,de,1.2000000000000002
 griechische,griechische,MISC,,,de,1.2000000000000002
+Wassers,Wassers,MISC,0.0,0.0,de,1.2000000000000002
 amerikanische,amerikanische,MISC,,,de,1.2000000000000002
-brandenb…,brandenb…,MISC,,,de,1.1
-afrikanischen,afrikanischen,MISC,,,de,1.1
-COP30,COP30,MISC,,,de,1.1
-österreichischen,österreichischen,MISC,,,de,1.1
-Nutella,Nutella,MISC,1.2727272727272725,0.0,de,1.1
-Nussschokolade,Nussschokolade,MISC,,,de,1.1
-Instagram,Instagram,MISC,,,de,1.1
-U…,U…,MISC,,,de,1.1
+Amazon,Amazon,MISC,,,de,1.2000000000000002
 Nobelpreis für Klimatechnologie,Nobelpreis für Klimatechnologie,MISC,,,de,1.1
+U…,U…,MISC,,,de,1.1
+Nussschokolade,Nussschokolade,MISC,,,de,1.1
+COP30,COP30,MISC,,,de,1.1
+afrikanischen,afrikanischen,MISC,,,de,1.1
+österreichischen,österreichischen,MISC,,,de,1.1
 Hause,Hause,MISC,,,de,1.1
-Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
-Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.0
-Baruth“,Baruth“,MISC,,,de,1.0
-Fußball-WM: Illusion vom Glück,Fußball-WM: Illusion vom Glück,MISC,,,de,1.0
-Getränke-Produktion,Getränke-Produktion,MISC,-0.5833333333333333,0.0,de,1.0
-Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
-Kriege,Kriege,MISC,,,de,1.0
+brandenb…,brandenb…,MISC,,,de,1.1
+Instagram,Instagram,MISC,,,de,1.1
+Nutella,Nutella,MISC,1.2727272727272725,0.0,de,1.1
 DOK-FILM,DOK-FILM,MISC,,,de,1.0
+Der Ablasshandel des Westens,Der Ablasshandel des Westens,MISC,,,de,1.0
+Getränke-Produktion,Getränke-Produktion,MISC,-0.5833333333333333,0.0,de,1.0
+Cou…,Cou…,MISC,,,de,1.0
+Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
+Getränkehersteller“,Getränkehersteller“,MISC,,,de,1.0
+Alarmstufe 2,Alarmstufe 2,MISC,,,de,1.0
+Kriege,Kriege,MISC,,,de,1.0
+Monaten des Jahres 2025,Monaten des Jahres 2025,MISC,,,de,1.0
+Kraft zum Leben schöpfen,Kraft zum Leben schöpfen,MISC,,,de,1.0
+Do…,Do…,MISC,,,de,1.0
 Das Thema Klimawandel,Das Thema Klimawandel,MISC,,,de,1.0
-Wasser-Energie-Nexus,Wasser-Energie-Nexus,MISC,,,de,1.0
-Juden,Juden,MISC,,,de,1.0
+Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
+Baruth“,Baruth“,MISC,,,de,1.0
+Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.0
 20Millionen,20Millionen,MISC,,,de,1.0
-Widerstand gegen…,Widerstand gegen…,MISC,,,de,1.0
+Wasser-Streit“,Wasser-Streit“,MISC,,,de,1.0
+Tages,Tages,MISC,,,de,1.0
 Nachrichtenagentur I…,Nachrichtenagentur I…,MISC,,,de,1.0
-europäische,europäische,MISC,,,de,1.0
+OeNB,OeNB,MISC,,,de,1.0
+Juden,Juden,MISC,,,de,1.0
 Judentum,Judentum,MISC,,,de,1.0
 Wasserinfrastruktur,Wasserinfrastruktur,MISC,,,de,1.0
-Alarmstufe 2,Alarmstufe 2,MISC,,,de,1.0
 Mill…,Mill…,MISC,,,de,1.0
 spanischen,spanischen,MISC,,,de,1.0
-Do…,Do…,MISC,,,de,1.0
-Wasser-Streit“,Wasser-Streit“,MISC,,,de,1.0
-Getränkehersteller“,Getränkehersteller“,MISC,,,de,1.0
-Klimaziele“,Klimaziele“,MISC,,,de,1.0
-Cou…,Cou…,MISC,,,de,1.0
-Kli…,Kli…,MISC,,,de,1.0
-Der Ablasshandel des Westens,Der Ablasshandel des Westens,MISC,,,de,1.0
-Heartland“,Heartland“,MISC,,,de,1.0
-Die Initiative,Die Initiative,MISC,,,de,1.0
-Die Übung,Die Übung,MISC,,,de,1.0
-Wasser & Wasserkrise “,Wasser & Wasserkrise “,MISC,,,de,1.0
-Temp…,Temp…,MISC,,,de,1.0
+Widerstand gegen…,Widerstand gegen…,MISC,,,de,1.0
 Thora & Bibel,Thora & Bibel,MISC,,,de,1.0
-Freitag …,Freitag …,MISC,,,de,1.0
-Fischen…,Fischen…,MISC,,,de,1.0
-Übers Wasser,Übers Wasser,MISC,,,de,1.0
-Der Urmia-See,Der Urmia-See,MISC,,,de,1.0
+Kli…,Kli…,MISC,,,de,1.0
 Dürre“,Dürre“,MISC,,,de,1.0
+Freitag …,Freitag …,MISC,,,de,1.0
+Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
+Fischen…,Fischen…,MISC,,,de,1.0
+Erzfeind,Erzfeind,MISC,,,de,1.0
+Ayatollah-Regimes,Ayatollah-Regimes,MISC,,,de,1.0
+r…,r…,MISC,,,de,1.0
+Der Urmia-See,Der Urmia-See,MISC,,,de,1.0
+Die Initiative,Die Initiative,MISC,,,de,1.0
+Trotz Regens,Trotz Regens,MISC,,,de,1.0
 Wa…,Wa…,MISC,,,de,1.0
 Jahr 2040,Jahr 2040,MISC,,,de,1.0
 dänische,dänische,MISC,,,de,1.0
 The potential o…,The potential o…,MISC,,,de,1.0
 Ein Podcast,Ein Podcast,MISC,,,de,1.0
-Trinkwasser-Sicherungsplan,Trinkwasser-Sicherungsplan,MISC,,,de,1.0
-Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
-Monaten des Jahres 2025,Monaten des Jahres 2025,MISC,,,de,1.0
-Heartland,Heartland,MISC,,,de,1.0
-Tages,Tages,MISC,,,de,1.0
-Trotz Regens,Trotz Regens,MISC,,,de,1.0
+Wasser-Energie-Nexus,Wasser-Energie-Nexus,MISC,,,de,1.0
+Übers Wasser,Übers Wasser,MISC,,,de,1.0
+Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
+Deutscher,Deutscher,MISC,,,de,1.0
+Temp…,Temp…,MISC,,,de,1.0
+Die Übung,Die Übung,MISC,,,de,1.0
 das Jahr aus Sicht,das Jahr aus Sicht,MISC,,,de,1.0
-Baumgutachten,Baumgutachten,MISC,,,de,1.0
-deutscher,deutscher,MISC,,,de,1.0
+Wasser & Wasserkrise “,Wasser & Wasserkrise “,MISC,,,de,1.0
 UN im Jahr 2023,UN im Jahr 2023,MISC,,,de,1.0
 Kabinett“,Kabinett“,MISC,,,de,1.0
 Hitze-Perioden,Hitze-Perioden,MISC,0.0,0.0,de,1.0
 Si…,Si…,MISC,,,de,1.0
 Teheran,Teheran,MISC,0.0,0.0,de,1.0
-Deutscher,Deutscher,MISC,,,de,1.0
+Fußball-WM: Illusion vom Glück,Fußball-WM: Illusion vom Glück,MISC,,,de,1.0
 CO2-freien,CO2-freien,MISC,,,de,1.0
-Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
-hessische,hessische,MISC,,,de,1.0
 Bürgerkrieg,Bürgerkrieg,MISC,,,de,1.0
+Heartland,Heartland,MISC,,,de,1.0
+Heartland“,Heartland“,MISC,,,de,1.0
+Trinkwasser-Sicherungsplan,Trinkwasser-Sicherungsplan,MISC,,,de,1.0
+Klimaziele“,Klimaziele“,MISC,,,de,1.0
+deutscher,deutscher,MISC,,,de,1.0
+Baumgutachten,Baumgutachten,MISC,,,de,1.0
+größten.weiterlesen auf t3n.de,größten.weiterlesen auf t3n.de,MISC,,,de,1.0
 F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1.0
-R…,R…,MISC,,,de,1.0
-Wi…,Wi…,MISC,,,de,1.0
-Mut,Mut,MISC,,,de,1.0
+CO2-Anstieg,CO2-Anstieg,MISC,,,de,1.0
 Online-Abo,Online-Abo,MISC,,,de,1.0
 Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
 Händewaschen“,Händewaschen“,MISC,,,de,1.0
@@ -121,8 +123,8 @@ Händewaschen,Händewaschen,MISC,0.0,0.0,de,1.0
 Hygiene,Hygiene,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
 TTS Player,TTS Player,MISC,,,de,1.0
-CO2-Anstieg,CO2-Anstieg,MISC,,,de,1.0
 Drastischer CO2-Anstieg,Drastischer CO2-Anstieg,MISC,,,de,1.0
+hessische,hessische,MISC,,,de,1.0
 Der Schloss…,Der Schloss…,MISC,,,de,1.0
 Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1.0
 Durstige KI,Durstige KI,MISC,,,de,1.0
@@ -130,9 +132,10 @@ KI-Kontinent“,KI-Kontinent“,MISC,,,de,1.0
 Regenausfall,Regenausfall,MISC,,,de,1.0
 Klimaschutz“,Klimaschutz“,MISC,,,de,1.0
 EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1.0
+EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1.0
 Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1.0
+Mut,Mut,MISC,,,de,1.0
 RSF,RSF,MISC,,,de,1.0
-griechischen,griechischen,MISC,,,de,1.0
 Umweltschutz“,Umweltschutz“,MISC,,,de,1.0
 Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1.0
 Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1.0
@@ -151,20 +154,18 @@ Zeit,Zeit,MISC,,,de,1.0
 Frankfurter,Frankfurter,MISC,,,de,1.0
 südeuropäische,südeuropäische,MISC,,,de,1.0
 Fauna“,Fauna“,MISC,,,de,1.0
-EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1.0
 Potenzial wä…,Potenzial wä…,MISC,,,de,1.0
 Bereczki-Quittenbaum,Bereczki-Quittenbaum,MISC,,,de,1.0
 Pfl…,Pfl…,MISC,,,de,1.0
 Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,MISC,-0.5666666666666667,0.3333333333333333,de,1.0
-Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1.0
 Euro,Euro,MISC,,,de,1.0
 TV,TV,MISC,,,de,1.0
 Online-TV-Anbieter waipu.tv,Online-TV-Anbieter waipu.tv,MISC,,,de,1.0
 Waipu.tv,Waipu.tv,MISC,,,de,1.0
 Sepia100,Sepia100,MISC,,,de,1.0
 Adobe Stock,Adobe Stock,MISC,,,de,1.0
+R…,R…,MISC,,,de,1.0
 Erkältung bei Kindern,Erkältung bei Kindern,MISC,,,de,1.0
-größten.weiterlesen auf t3n.de,größten.weiterlesen auf t3n.de,MISC,,,de,1.0
 Primär-Endenergie Verluste,Primär-Endenergie Verluste,MISC,,,de,1.0
 Heizungsrohre,Heizungsrohre,MISC,,,de,1.0
 brasilianische,brasilianische,MISC,,,de,1.0
@@ -172,26 +173,29 @@ Stillen,Stillen,MISC,,,de,1.0
 französischen,französischen,MISC,,,de,1.0
 Jetz...,Jetz...,MISC,,,de,1.0
 Münchner,Münchner,MISC,,,de,1.0
+griechischen,griechischen,MISC,,,de,1.0
+Wi…,Wi…,MISC,,,de,1.0
+Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1.0
 bayerische,bayerische,MISC,,,de,1.0
-Klimaflucht,Klimaflucht,MISC,,,de,1.0
-Sie tauschen Klassenzimmer,Sie tauschen Klassenzimmer,MISC,,,de,1.0
-Bose,Bose,MISC,,,de,1.0
 Pandemie“,Pandemie“,MISC,,,de,1.0
+Klimaflucht,Klimaflucht,MISC,,,de,1.0
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
 FOCUS-online-Artikel,FOCUS-online-Artikel,MISC,,,de,1.0
 Fok…,Fok…,MISC,,,de,1.0
 Olivenernte,Olivenernte,MISC,,,de,1.0
 Olivenfruchtfliege,Olivenfruchtfliege,MISC,,,de,1.0
 H…,H…,MISC,,,de,1.0
+Bose,Bose,MISC,,,de,1.0
+chinesischen,chinesischen,MISC,,,de,1.0
 "Dukas
 ","Dukas
 ",MISC,,,de,1.0
-See“,See“,MISC,,,de,1.0
-chinesischen,chinesischen,MISC,,,de,1.0
 Sieben Jahre ohne Star Wars,Sieben Jahre ohne Star Wars,MISC,,,de,1.0
 Sternenkrieg passé,Sternenkrieg passé,MISC,,,de,1.0
 Star Wars,Star Wars,MISC,,,de,1.0
 Zeit der großen Dürre,Zeit der großen Dürre,MISC,,,de,1.0
 Energiekoste…,Energiekoste…,MISC,,,de,1.0
 Das segelnde Klassenzimmer,Das segelnde Klassenzimmer,MISC,,,de,1.0
-Kraft zum Leben schöpfen,Kraft zum Leben schöpfen,MISC,,,de,1.0
+See“,See“,MISC,,,de,1.0
+Sie tauschen Klassenzimmer,Sie tauschen Klassenzimmer,MISC,,,de,1.0
+NIS-2-Richtlinie,NIS-2-Richtlinie,MISC,,,de,1.0
