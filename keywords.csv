@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.3612499999999999
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.2881138753057414
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.2737592058251239
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.2653891374644812
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2511227950781875
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.24489718400988017
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2348974946439858
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.2260609833452986
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.2163185852927047
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1880993750439858
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.181315231180897
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.1702150489560054
-'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.16697423227392386
+'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1669742322739238
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1650030739890946
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1485144675092583
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1233031134559713
