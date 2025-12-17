@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.3612499999999999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3612499999999999
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3612499999999999
-'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.3612499999999999
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
+'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.3070624999999999
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.2737592058251239
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.2653891374644812
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2511227950781875
