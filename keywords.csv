@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.3843179169090908
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3612499999999999
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3612499999999999
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.2622102206975
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.2610031249999999
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.2610031249999999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.2610031249999999
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2610031249999999
