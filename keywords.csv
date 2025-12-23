@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.3843179169090908
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3612499999999999
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3612499999999999
-'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2610031249999999
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3612499999999999
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.2610031249999999
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.2412915978369695
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2348974946439858
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.2260609833452986
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.2244306095073497
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.223028702592875
+'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.2218526562499999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.2218526562499999
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.2218526562499999
