@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.219648233161424
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.2159387453386527
-'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.2134543758164593
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2131577198918323
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.198173564458652
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1969018721268945
@@ -16,9 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1929812755680875
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1913665730812472
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1897244122039437
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
+'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.18143621944399038
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.181315231180897
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.1702150489560054
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
