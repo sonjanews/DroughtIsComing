@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.3316209943727272
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3070624999999999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.2218526562499999
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3070624999999999
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.219648233161424
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.2159387453386527
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1929812755680875
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1913665730812472
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1897244122039437
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.181315231180897
