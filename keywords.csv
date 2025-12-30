@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.3316209943727272
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.3070624999999999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.3070624999999999
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.2610031249999999
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.2159387453386527
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2131577198918323
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.198173564458652
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1969018721268945
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.19665654634510513
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1966565463451051
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.1950157933259854
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1938020008435038
