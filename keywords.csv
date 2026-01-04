@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.226686602087572
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.2218526562499999
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.2131577198918323
+'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.19763439177443617
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.1950157933259854
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1938020008435038
