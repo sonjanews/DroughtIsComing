@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1929812755680875
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1902344669080574
+'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
-'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1885004685378548
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.181315231180897
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1773583343933393
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1676121421190601
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1662318507169782
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1646494494752542
-'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.16156578037335215
+'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1416027478907304
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0858541255773165
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0771111633011482
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.06629456380597597
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0637432066006541
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0395492263875842
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0245918956872867
