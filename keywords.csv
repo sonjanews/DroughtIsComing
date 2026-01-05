@@ -5,10 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1929812755680875
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1902344669080574
-'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1897244122039437
-'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
-'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
+'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
+'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1885004685378548
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.181315231180897
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1773583343933393
@@ -17,7 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1682666813078603
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1676121421190601
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1662318507169782
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.16464944947525423
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1646494494752542
+'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.16156578037335215
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
