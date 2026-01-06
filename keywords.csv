@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1976343917744361
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.1950157933259854
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1945932282522968
-'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1929812755680875
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1902344669080574
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.1885747578124999
@@ -15,10 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1682666813078603
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1676121421190601
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1662318507169782
+'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1646341442328744
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
-'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
+'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1601844987873879
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.1582328721239791
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
