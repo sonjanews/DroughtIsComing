@@ -15,9 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1662318507169782
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1646341442328744
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
-'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1602885441406249
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1601844987873879
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.1582328721239791
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1416027478907304
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.139952032053966
+'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.13624526251953117
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0858541255773165
