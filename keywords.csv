@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1976343917744361
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1902344669080574
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1871259875858808
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1813364815998148
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1676121421190601
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1662318507169782
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1646341442328744
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.16169968687184877
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1601844987873879
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1453529690186
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1437624257071208
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.13624526251953117
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1362452625195311
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1189592272458711
