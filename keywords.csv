@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1646341442328744
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1602885441406249
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1601844987873879
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.1582328721239791
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.1548680215037624
@@ -22,11 +21,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1453529690186
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1437624257071208
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.13624526251953117
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1362452625195311
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1189592272458711
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
-'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.11580847314160142
+'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0858541255773165
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
