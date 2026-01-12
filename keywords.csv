@@ -21,11 +21,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1443768141116812
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1437624257071208
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.1362452625195311
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1189592272458711
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.11580847314160142
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0858541255773165
