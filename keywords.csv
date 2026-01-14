@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.1885747578124999
-'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1813364815998148
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1702399530082707
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1646341442328744
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1615657803733521
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.1548680215037624
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1547374473828695
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
+'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.15413639935984258
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1537548842343384
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.152220620801201
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1453529690186
