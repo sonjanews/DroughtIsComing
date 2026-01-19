@@ -18,15 +18,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.1362452625195311
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1362452625195311
-'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.13178783327819804
+'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.131787833278198
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1306919215991876
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.1239404688707139
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1170088040697469
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.1011153431589904
-'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0984372021703612
+'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.08367162184480702
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0820179208316281
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
