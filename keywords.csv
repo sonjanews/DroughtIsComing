@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.131787833278198
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1170088040697469
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.1158084731416014
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.11303832835930946
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1130383283593094
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.1056494285401068
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0984372021703612
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0984372021703612
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
