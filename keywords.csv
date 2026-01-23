@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1702399530082707
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.1590573444479986
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.152220620801201
+'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1496548000570301
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1453529690186
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1437624257071208
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.143330415321376
