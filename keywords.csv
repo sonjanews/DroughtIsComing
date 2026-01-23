@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.152220620801201
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.1496548000570301
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1453529690186
-'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1437624257071208
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.143330415321376
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1430561112806433
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.1346479563053822
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.133327010275439
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.131787833278198
+'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.12279812185105268
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.1170088040697469
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
