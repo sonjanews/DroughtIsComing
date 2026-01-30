@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1663575023475622
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
+'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.1508405706317915
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.1425286524328352
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1403464611868368
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1383490577807987
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0620974601175149
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0426427169348448
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0209031113341936
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.017548201853436144
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
