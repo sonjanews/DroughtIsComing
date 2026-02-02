@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.1383490577807987
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.131787833278198
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1310387324310415
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1286651975639315
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1200582802082517
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1195586828738877
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.1175970441136789
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1172697782068475
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.1158084731416014
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1152781537341231
@@ -18,16 +18,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1130383283593094
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.1056494285401068
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.10470067465026477
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1047006746502647
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0994574834592848
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0975606761806385
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0820179208316281
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0637432066006541
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0620974601175149
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
