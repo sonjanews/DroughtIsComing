@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1286651975639315
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1282147850370227
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.1219808680231696
-'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1215452120088112
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1211496845679099
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1200582802082517
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1195586828738877
@@ -16,18 +15,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1152781537341231
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1151267370922194
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1130383283593094
+'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.10556415020748952
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1047006746502647
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0994574834592848
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0992118122523384
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0975606761806385
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.08995202925909078
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0899520292590907
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0637432066006541
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0620974601175149
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
