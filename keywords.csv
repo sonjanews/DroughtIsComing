@@ -20,14 +20,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.1047006746502647
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0994574834592848
+'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.09921181225233842
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0975606761806385
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
-'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0820179208316281
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0736775021522594
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0637432066006541
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0620974601175149
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
