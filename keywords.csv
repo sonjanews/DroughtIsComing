@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1542207865273917
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.131787833278198
+'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.13108766854828297
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1310387324310415
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1286651975639315
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1282147850370227
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0711208785680859
-'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.06397601182942049
+'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0639760118294204
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0637432066006541
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0620974601175149
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
