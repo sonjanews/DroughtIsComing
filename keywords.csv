@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1310387324310415
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1286651975639315
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1211496845679099
-'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1200582802082517
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1195586828738877
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1181084465283865
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1178667209422636
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1055641502074895
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.1036837378196941
+'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.10249958317701394
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0992118122523384
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
