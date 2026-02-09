@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1195586828738877
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.1175970441136789
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1172697782068475
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.11724753911671353
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1172475391167135
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1152781537341231
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1130383283593094
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.1123196882864683
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0527828410998876
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.04486541493490446
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.036396324394618
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0209031113341936
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
