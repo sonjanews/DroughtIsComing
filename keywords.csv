@@ -23,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0899520292590907
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.084538860940392
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.07112087856808595
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0639760118294204
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.06045274678287301
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
