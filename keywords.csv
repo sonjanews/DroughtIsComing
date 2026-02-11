@@ -25,11 +25,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0639760118294204
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.05138483476544205
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0448654149349044
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.036396324394618
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0209031113341936
