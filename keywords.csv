@@ -2,15 +2,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1324419632185591
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1310876685482829
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1243665729293417
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.1175970441136789
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.1123196882864683
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1119828672814692
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1107721081529464
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1094337936400376
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.10583287910541299
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1058328791054129
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1055641502074895
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1046316664758203
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.10385787749662706
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.1036837378196941
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1034250604428045
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1025107082492064
@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0639760118294204
-'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
+'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
