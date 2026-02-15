@@ -17,17 +17,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.1005366856740046
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0992118122523384
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0984372021703612
-'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.09773569218924881
+'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0977356921892488
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.084538860940392
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
-'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.065267868889693
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0639760118294204
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
+'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.06045274678287301
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
