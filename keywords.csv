@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.1243665729293417
-'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.12096176110644338
+'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1209617611064433
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1114245182660404
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1107721081529464
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1094337936400376
@@ -31,6 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.036396324394618
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0310868907354253
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
