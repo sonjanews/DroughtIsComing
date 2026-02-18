@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1114245182660404
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1107721081529464
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1094337936400376
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.1058328791054129
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1055641502074895
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1046316664758203
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0992118122523384
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0977356921892488
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.09355832223960096
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0897114813763838
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.084538860940392
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.083671621844807
