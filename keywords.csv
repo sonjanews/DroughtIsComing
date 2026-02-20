@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Risikomanagement',de,Resilience, #5df0e1, #65dfef,1,0.1243665729293417
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1209617611064433
+'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.11471761069961786
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.1114245182660404
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.1107721081529464
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.1094337936400376
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0935583222396009
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0897114813763838
-'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.08577560836086148
+'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
