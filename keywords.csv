@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0967065619300044
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0947108405261343
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.09436935459403195
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0943693545940319
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0935583222396009
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0897114813763838
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
@@ -31,6 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0310868907354253
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.026573872125111503
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
