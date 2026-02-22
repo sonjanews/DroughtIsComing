@@ -19,16 +19,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0711208785680859
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.065267868889693
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0619119102794332
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.06045274678287301
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.043677109550625696
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0265738721251115
