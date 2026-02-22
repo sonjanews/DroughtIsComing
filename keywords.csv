@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0947108405261343
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0943693545940319
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0935583222396009
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.09112948087213295
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0911294808721329
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0897114813763838
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.051384834765442
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.043677109550625696
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0265738721251115
