@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1410568140373855
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1209617611064433
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1055641502074895
-'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1049784635733947
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.1046316664758203
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.1036837378196941
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1025107082492064
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.065267868889693
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0619119102794332
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.06045274678287301
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
