@@ -25,12 +25,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0541817256105559
-'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.05337519873751822
+'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0533751987375182
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
-'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
+'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.03712554311803176
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0227378063063447
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
