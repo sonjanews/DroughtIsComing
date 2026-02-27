@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.1060062854144876
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1055641502074895
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.1055177669404768
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.1025107082492064
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.1024995831770139
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0943693545940319
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0938891665044472
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0935583222396009
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0911294808721329
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.08848423701182544
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0881311771467399
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.0875430564804738
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0871063478229039
