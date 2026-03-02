@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0884842370118254
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0881311771467399
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0877247057004618
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0871063478229039
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0853509076405037
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0841448048987334
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0805042144472141
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.07952482890366076
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.0789127230084027
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.07479047064946831
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0660316667944372
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.060452746782873
