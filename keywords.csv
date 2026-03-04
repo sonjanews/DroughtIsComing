@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0877247057004618
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0853509076405037
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0841448048987334
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.08110197059249483
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0805042144472141
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,3,0.0789127230084027
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.040191015819382635
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0381356026946687
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
