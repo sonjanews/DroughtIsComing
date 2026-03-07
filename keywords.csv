@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1906557461373804
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1544771503603929
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.13145559280633395
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.112270918274911
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.1075626426023144
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.0670766995571423
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0660316667944372
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0638247904885195
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.05138483476544205
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0464190239268904
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0460544667689725
-'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
+'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0324152622904683
