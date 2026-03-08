@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0811019705924948
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0805042144472141
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.07746028374131297
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0774602837413129
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0747904706494683
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0660316667944372
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0638247904885195
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0464190239268904
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0460544667689725
-'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.043677109550625696
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
+'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0324152622904683
