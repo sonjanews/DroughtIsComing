@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1906557461373804
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.13145559280633395
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1314555928063339
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.112270918274911
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.1075626426023144
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.095771765043498
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,1,0.0938891665044472
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0911294808721329
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0896903418994052
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0884842370118254
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0877247057004618
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0811019705924948
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0805042144472141
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.07746028374131297
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0747904706494683
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0464190239268904
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0460544667689725
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0324152622904683
