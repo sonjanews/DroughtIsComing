@@ -24,11 +24,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0464190239268904
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0460544667689725
-'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
-'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
+'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
+'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0436771095506256
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.03712554311803176
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0324152622904683
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0315567116503269
