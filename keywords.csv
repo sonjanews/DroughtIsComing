@@ -5,17 +5,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1118872688853838
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0913727042893348
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.087882316189263
-'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.08707453061449441
+'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0870745306144944
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0853509076405037
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0847578015287801
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
-'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0805042144472141
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0764117214600515
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0747904706494683
+'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.06842858228013199
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.0670766995571423
