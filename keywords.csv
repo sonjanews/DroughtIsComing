@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0857756083608614
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0853509076405037
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0847578015287801
-'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.08370570747055096
+'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0837057074705509
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0832266047535427
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0795248289036607
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.0670766995571423
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0660316667944372
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0638247904885195
-'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.051384834765442
 'Anpassungsstrategien',de,Resilience, #5df0e1, #65dfef,1,0.0464190239268904
+'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.043677109550625696
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0436771095506256
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0391462967536266
