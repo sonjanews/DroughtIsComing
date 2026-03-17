@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1898074592167733
+'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1622364303342573
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.1498060902869732
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.112270918274911
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0952541935525762
@@ -31,6 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0315567116503269
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0315567116503269
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.026823204902777863
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0268232049027778
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
