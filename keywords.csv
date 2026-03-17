@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0764117214600515
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0735093271067321
-'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.07089262904051129
+'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0708926290405112
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0683025023277346
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Risikomanagement',de,Resilience, #5df0e1, #65dfef,2,0.0670766995571423
@@ -27,10 +27,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Klimasensibilität',de,Vulnerability, #6e030a, #96030d,1,0.0371255431180317
 'Bewässerungsmanaement',de,Resilience, #5df0e1, #65dfef,1,0.0371255431180317
-'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.0315567116503269
 'Ernterückgang',de,Vulnerability, #6e030a, #96030d,1,0.0315567116503269
 'Ertragsverluste',de,Vulnerability, #6e030a, #96030d,1,0.0315567116503269
 'Bodenfeuchtigkeitserhalt',de,Resilience, #5df0e1, #65dfef,1,0.0315567116503269
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
+'Desertifikationstendenz',de,Vulnerability, #6e030a, #96030d,1,0.026823204902777863
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0175482018534361
