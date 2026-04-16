@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1188303705336743
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1140309541810126
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0913727042893348
-'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.08423879115487927
+'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0842387911548792
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0810872453903721
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0809660645196897
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0803757063499682
@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0764135910223202
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0764117214600515
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.07475408275660148
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0660316667944372
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.064471990052048
@@ -23,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0391462967536266
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0344753385371782
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0315567116503269
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0315567116503269
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0315567116503269
