@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.1188303705336743
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1140309541810126
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1019083333334218
+'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.10100590495362315
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0927881454536596
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0858041027672806
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0839473915678083
