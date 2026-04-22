@@ -27,9 +27,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0315567116503269
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
-'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.02279972416736113
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0227997241673611
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.022799724167361
+'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.019379765542256934
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
