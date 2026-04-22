@@ -24,12 +24,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0332743522405826
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0315567116503269
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.026823204902777863
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0227997241673611
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.022799724167361
-'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.019379765542256934
+'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
