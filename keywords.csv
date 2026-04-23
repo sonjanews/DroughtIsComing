@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0764117214600515
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0716034074816473
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.07135571783263704
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.071355717832637
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0653070275820936
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
-'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0332743522405826
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.02828319940449521
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0268232049027778
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
