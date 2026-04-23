@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0809660645196897
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0803757063499682
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.0778181178923156
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0764788206848161
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0764135910223202
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0764117214600515
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0716034074816473
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.06530702758209368
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0581642949381121
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0580571269785744
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0332743522405826
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.027552972946898
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.026823204902777863
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0268232049027778
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0227997241673611
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.022799724167361
