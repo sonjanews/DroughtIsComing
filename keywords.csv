@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1132764460538607
-'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.1019083333334218
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.1010059049536231
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0927881454536596
+'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.08857227833340853
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0858041027672806
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0810872453903721
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0809660645196897
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.022799724167361
-'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.019379765542256934
+'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
