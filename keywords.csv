@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0581642949381121
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0580571269785744
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0564269467752716
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.05581100344477956
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0558110034447795
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0401910158193826
@@ -27,8 +27,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0268232049027778
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
-'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0227997241673611
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.022799724167361
+'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.019379765542256934
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
