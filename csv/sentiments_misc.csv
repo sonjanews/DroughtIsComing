@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,42.899999999999956
+",MISC,,,de,44.59999999999995
 “,“,MISC,-3.166666666666666,1.5,de,36.89999999999996
 iranischen,iranischen,MISC,,,de,6.4
 Sachsen,Sachsen,MISC,-0.24999999999999997,0.0,de,4.9
@@ -55,46 +55,46 @@ klimaschädliches CO2,klimaschädliches CO2,MISC,,,de,1.9
 Bürgerkrieg,Bürgerkrieg,MISC,,,de,1.9
 a…,a…,MISC,,,de,1.9
 Zeit,Zeit,MISC,,,de,1.9
+Frankfurter,Frankfurter,MISC,,,de,1.8
 Wasser-Streit,Wasser-Streit,MISC,,,de,1.5000000000000004
 Erwärmung,Erwärmung,MISC,,,de,1.3
-Amazon,Amazon,MISC,,,de,1.2000000000000002
-griechische,griechische,MISC,,,de,1.2000000000000002
 amerikanische,amerikanische,MISC,,,de,1.2000000000000002
 Wassers,Wassers,MISC,0.0,0.0,de,1.2000000000000002
-Hause,Hause,MISC,,,de,1.1
-Instagram,Instagram,MISC,,,de,1.1
-Nutella,Nutella,MISC,1.2727272727272725,0.0,de,1.1
+Amazon,Amazon,MISC,,,de,1.2000000000000002
+griechische,griechische,MISC,,,de,1.2000000000000002
+COP30,COP30,MISC,,,de,1.1
 Nussschokolade,Nussschokolade,MISC,,,de,1.1
 Nobelpreis für Klimatechnologie,Nobelpreis für Klimatechnologie,MISC,,,de,1.1
-U…,U…,MISC,,,de,1.1
-COP30,COP30,MISC,,,de,1.1
-österreichischen,österreichischen,MISC,,,de,1.1
-afrikanischen,afrikanischen,MISC,,,de,1.1
 brandenb…,brandenb…,MISC,,,de,1.1
-ISO 27001,ISO 27001,MISC,,,de,1.0
-UNO-Bericht,UNO-Bericht,MISC,,,de,1.0
-Angriff Russlands auf,Angriff Russlands auf,MISC,,,de,1.0
-No Way Home“,No Way Home“,MISC,,,de,1.0
-Nabu,Nabu,MISC,0.0,0.0,de,1.0
-südeuropäische,südeuropäische,MISC,,,de,1.0
-Frankfurter,Frankfurter,MISC,,,de,1.0
+Hause,Hause,MISC,,,de,1.1
+afrikanischen,afrikanischen,MISC,,,de,1.1
+Instagram,Instagram,MISC,,,de,1.1
+U…,U…,MISC,,,de,1.1
+österreichischen,österreichischen,MISC,,,de,1.1
+Nutella,Nutella,MISC,1.2727272727272725,0.0,de,1.1
 New York/Dakar,New York/Dakar,MISC,,,de,1.0
-Dürre in der Türkei,Dürre in der Türkei,MISC,,,de,1.0
-Romantisches Ibiza,Romantisches Ibiza,MISC,,,de,1.0
+südeuropäische,südeuropäische,MISC,,,de,1.0
+Nabu,Nabu,MISC,0.0,0.0,de,1.0
+UNO-Bericht,UNO-Bericht,MISC,,,de,1.0
 picture alliance/dpa/UNU-INWEH,picture alliance/dpa/UNU-INWEH,MISC,,,de,1.0
-äthiopischen,äthiopischen,MISC,,,de,1.0
+Romantisches Ibiza,Romantisches Ibiza,MISC,,,de,1.0
 Regenfällen,Regenfällen,MISC,,,de,1.0
-Online-Workshop,Online-Workshop,MISC,,,de,1.0
+Durstige KI,Durstige KI,MISC,,,de,1.0
 Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1.0
-Was uns der Staat im Notfall,Was uns der Staat im Notfall,MISC,,,de,1.0
 Cyber-Sicherheit,Cyber-Sicherheit,MISC,,,de,1.0
 MA 01,MA 01,MISC,,,de,1.0
-Afar,Afar,MISC,,,de,1.0
 Schon im Jahr 1965,Schon im Jahr 1965,MISC,,,de,1.0
-Ibiza HE…,Ibiza HE…,MISC,,,de,1.0
-Abfa…,Abfa…,MISC,,,de,1.0
+Afar,Afar,MISC,,,de,1.0
+äthiopischen,äthiopischen,MISC,,,de,1.0
+ISO 27001,ISO 27001,MISC,,,de,1.0
+Online-Workshop,Online-Workshop,MISC,,,de,1.0
+Dürre in der Türkei,Dürre in der Türkei,MISC,,,de,1.0
+No Way Home“,No Way Home“,MISC,,,de,1.0
+Die Türkei ,Die Türkei ,MISC,,,de,1.0
+Angriff Russlands auf,Angriff Russlands auf,MISC,,,de,1.0
 indischer,indischer,MISC,,,de,1.0
-Umweltschutz“,Umweltschutz“,MISC,,,de,1.0
+Was uns der Staat im Notfall,Was uns der Staat im Notfall,MISC,,,de,1.0
+Abfa…,Abfa…,MISC,,,de,1.0
 Alarmstufe 2,Alarmstufe 2,MISC,,,de,1.0
 Co tro…,Co tro…,MISC,,,de,1.0
 Fauna“,Fauna“,MISC,,,de,1.0
@@ -123,11 +123,11 @@ Trockenh…,Trockenh…,MISC,,,de,1.0
 Holzzersetzung,Holzzersetzung,MISC,,,de,1.0
 Die Proteste gegen die Mullahs,Die Proteste gegen die Mullahs,MISC,,,de,1.0
 Lan…,Lan…,MISC,,,de,1.0
-Die Türkei ,Die Türkei ,MISC,,,de,1.0
-Durstige KI,Durstige KI,MISC,,,de,1.0
+Ibiza HE…,Ibiza HE…,MISC,,,de,1.0
 GLOBE NEWSWIRE,GLOBE NEWSWIRE,MISC,,,de,1.0
+150 Jahre alte Baumgruppe,150 Jahre alte Baumgruppe,MISC,,,de,1.0
 Exterro,Exterro,MISC,,,de,1.0
-Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1.0
+KGB-Städtchen,KGB-Städtchen,MISC,,,de,1.0
 Rec…,Rec…,MISC,,,de,1.0
 Bali,Bali,MISC,0.0,0.0,de,1.0
 Millionen Urlauber strömen jedes Jahr,Millionen Urlauber strömen jedes Jahr,MISC,,,de,1.0
@@ -151,18 +151,18 @@ Special: Wissenschaft - Satellitenbilder,Special: Wissenschaft - Satellitenbilde
 UNESCO-Welterbestätten,UNESCO-Welterbestätten,MISC,,,de,1.0
 Osterinsel-Statuen,Osterinsel-Statuen,MISC,,,de,1.0
 Küsten,Küsten,MISC,,,de,1.0
+69 K,69 K,MISC,,,de,1.0
 Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1.0
 "Tag, …","Tag, …",MISC,,,de,1.0
 West-Ost-Gefälle,West-Ost-Gefälle,MISC,,,de,1.0
 RiskLab,RiskLab,MISC,,,de,1.0
 Erwärmung global,Erwärmung global,MISC,,,de,1.0
+Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1.0
 Grundwas…,Grundwas…,MISC,,,de,1.0
 Regelmäßigkeiten,Regelmäßigkeiten,MISC,,,de,1.0
-KI-Boom,KI-Boom,MISC,,,de,1.0
-Chatbot-Anfragen,Chatbot-Anfragen,MISC,,,de,1.0
-KGB-Städtchen,KGB-Städtchen,MISC,,,de,1.0
+Boyles Roman,Boyles Roman,MISC,,,de,1.0
+russischen,russischen,MISC,,,de,1.0
 DOK-FILM,DOK-FILM,MISC,,,de,1.0
-150 Jahre alte Baumgruppe,150 Jahre alte Baumgruppe,MISC,,,de,1.0
 Zeit von Gartenkünstler,Zeit von Gartenkünstler,MISC,,,de,1.0
 US-Rechte,US-Rechte,MISC,,,de,1.0
 Hitler“,Hitler“,MISC,,,de,1.0
@@ -173,9 +173,9 @@ Mexikaner,Mexikaner,MISC,,,de,1.0
 Fußball-WM,Fußball-WM,MISC,,,de,1.0
 mexikanischen,mexikanischen,MISC,,,de,1.0
 Fußballweltmeisterschaft,Fußballweltmeisterschaft,MISC,,,de,1.0
-Boyles Roman,Boyles Roman,MISC,,,de,1.0
-Chile,Chile,MISC,0.1891891891891892,0.0,de,1.0
+Chatbot-Anfragen,Chatbot-Anfragen,MISC,,,de,1.0
 Obe…,Obe…,MISC,,,de,1.0
+KI-Boom,KI-Boom,MISC,,,de,1.0
 Gletsc…,Gletsc…,MISC,,,de,1.0
 Umweltkrise,Umweltkrise,MISC,,,de,1.0
 Hungersnot im Sudan,Hungersnot im Sudan,MISC,,,de,1.0
@@ -188,8 +188,9 @@ Berlinale 2026,Berlinale 2026,MISC,,,de,1.0
 Berlinale,Berlinale,MISC,,,de,1.0
 MV,MV,MISC,0.0,0.0,de,1.0
 Bürgerkriegs,Bürgerkriegs,MISC,,,de,1.0
-russischen,russischen,MISC,,,de,1.0
-Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
+Chile,Chile,MISC,0.1891891891891892,0.0,de,1.0
+Umweltschutz“,Umweltschutz“,MISC,,,de,1.0
+Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
 RSF,RSF,MISC,,,de,1.0
 Sie tauschen Klassenzimmer,Sie tauschen Klassenzimmer,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
@@ -240,10 +241,10 @@ Olivenernte,Olivenernte,MISC,,,de,1.0
 Olivenfruchtfliege,Olivenfruchtfliege,MISC,,,de,1.0
 H…,H…,MISC,,,de,1.0
 Bose,Bose,MISC,,,de,1.0
+chinesischen,chinesischen,MISC,,,de,1.0
 "Dukas
 ","Dukas
 ",MISC,,,de,1.0
-chinesischen,chinesischen,MISC,,,de,1.0
 Drastischer CO2-Anstieg,Drastischer CO2-Anstieg,MISC,,,de,1.0
 CO2-Anstieg,CO2-Anstieg,MISC,,,de,1.0
 TTS Player,TTS Player,MISC,,,de,1.0
@@ -280,11 +281,11 @@ Thora & Bibel,Thora & Bibel,MISC,,,de,1.0
 Wasser & Wasserkrise “,Wasser & Wasserkrise “,MISC,,,de,1.0
 Die Initiative,Die Initiative,MISC,,,de,1.0
 KI-Kontinent“,KI-Kontinent“,MISC,,,de,1.0
-Niedrigwasser-Lagebericht“,Niedrigwasser-Lagebericht“,MISC,,,de,1.0
+Das vergangene Jahr war,Das vergangene Jahr war,MISC,,,de,1.0
 Deutscher,Deutscher,MISC,,,de,1.0
 deutscher,deutscher,MISC,,,de,1.0
 Heartland“,Heartland“,MISC,,,de,1.0
-Händewaschen“,Händewaschen“,MISC,,,de,1.0
+Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
 Judentum,Judentum,MISC,,,de,1.0
 CO2-freien,CO2-freien,MISC,,,de,1.0
 Juden,Juden,MISC,,,de,1.0
@@ -303,7 +304,7 @@ Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
 Cou…,Cou…,MISC,,,de,1.0
 Der Ablasshandel des Westens,Der Ablasshandel des Westens,MISC,,,de,1.0
 Monaten des Jahres 2025,Monaten des Jahres 2025,MISC,,,de,1.0
-Keim-Hotspots,Keim-Hotspots,MISC,,,de,1.0
+Krankheitserreger,Krankheitserreger,MISC,,,de,1.0
 Kli…,Kli…,MISC,,,de,1.0
 Trotz Regens,Trotz Regens,MISC,,,de,1.0
 das Jahr aus Sicht,das Jahr aus Sicht,MISC,,,de,1.0
@@ -313,5 +314,5 @@ Kabinett“,Kabinett“,MISC,,,de,1.0
 Hitze-Perioden,Hitze-Perioden,MISC,0.0,0.0,de,1.0
 Si…,Si…,MISC,0.3684210526315789,0.0,de,1.0
 Teheran,Teheran,MISC,0.0,0.0,de,1.0
-Krankheitserreger,Krankheitserreger,MISC,,,de,1.0
+Händewaschen“,Händewaschen“,MISC,,,de,1.0
 Stockholm Water Prize,Stockholm Water Prize,MISC,,,de,1.0
