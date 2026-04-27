@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0885722783334085
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0858041027672806
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0811494058545435
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0809660645196897
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0803757063499682
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.0779722658289926
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.0778181178923156
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.071355717832637
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0700882563594002
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.06882115484173625
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0177676446340645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.01327863583910751
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
