@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
-'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0268232049027778
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
+'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.02279972416736113
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0227997241673611
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109182
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0151024979389548
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
-'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.011901598513638425
+'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0119015985136384
