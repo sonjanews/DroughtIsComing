@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
-'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0227997241673611
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0227997241673611
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
+'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.019379765542256934
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109182
