@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0814789127493602
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0742228847650783
-'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.07392939497636197
+'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0739293949763619
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.071355717832637
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0700882563594002
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.0689766959546437
@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0580571269785744
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0564269467752716
-'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0558110034447795
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
+'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.04788939792806258
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0227997241673611
