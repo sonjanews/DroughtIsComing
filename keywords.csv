@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0661461652084682
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.06353949705031654
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0635394970503165
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0594519256042805
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0580571269785744
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0564269467752716
@@ -31,6 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109182
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0151024979389548
-'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
+'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.011901598513638425
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0119015985136384
