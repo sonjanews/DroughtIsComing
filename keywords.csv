@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0826518223689721
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0814789127493602
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0742228847650783
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0739293949763619
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.071355717832637
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0700882563594002
@@ -16,7 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0661461652084682
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
-'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.05945192560428056
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.06353949705031654
+'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0594519256042805
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0580571269785744
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0564269467752716
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
