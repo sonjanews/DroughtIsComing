@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.11918248950897894
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1191824895089789
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0970350541457815
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0842002032410436
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0826518223689721
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.08171140080991536
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0814789127493602
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0739293949763619
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.071355717832637
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0700882563594002
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.0689766959546437
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0683202203974729
