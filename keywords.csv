@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0842002032410436
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0826518223689721
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817114008099153
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0814789127493602
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.07827892440838474
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0748660298453925
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0739293949763619
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0700882563594002
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.019379765542256934
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0193797655422569
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109182
