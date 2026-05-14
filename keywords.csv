@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.1191824895089789
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.10145513108263207
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0940062170406013
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817114008099153
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.071622978120327
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0625757373704214
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0625217171615822
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0564269467752716
-'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.055200817563296055
+'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.055200817563296
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0511341967636383
