@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.10145513108263207
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.101455131082632
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0940062170406013
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817114008099153
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.071622978120327
@@ -28,9 +28,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0193797655422569
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109182
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0151024979389548
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.014001880604280469
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0119015985136384
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
