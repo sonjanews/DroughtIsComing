@@ -16,12 +16,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0627364407420199
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0625757373704214
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0625217171615822
-'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.055200817563296
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0511341967636383
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
-'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.04796290475898086
+'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
+'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0476707699288016
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0240407194938209
