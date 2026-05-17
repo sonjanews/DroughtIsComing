@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,2,0.1326744753342855
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.08922520970190241
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0892252097019024
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0863868764202372
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817114008099153
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.071622978120327
@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0598723193850579
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
-'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0511341967636383
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
+'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.04391411224909256
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0412702294394813
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
