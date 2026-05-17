@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
-'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.04391411224909256
+'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0439141122490925
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0412702294394813
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0199070229541338
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0193797655422569
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.01692096951101373
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0151024979389548
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042804
