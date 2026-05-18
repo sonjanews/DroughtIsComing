@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0625757373704214
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0625217171615822
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0598723193850579
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.05539746354164452
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0553974635416445
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
@@ -28,9 +28,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0193797655422569
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0193797655422569
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0169209695110137
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0151024979389548
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042804
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.01283712324811158
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0119015985136384
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
