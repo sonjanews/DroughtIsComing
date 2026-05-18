@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Regenmangel',de,Hazard,#b13040,#9f4e4e,2,0.11307333403414269
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,2,0.1130733340341426
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0892252097019024
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0863868764202372
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817114008099153
@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0661461652084682
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0642910453431112
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0635394970503165
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0627364407420199
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0625757373704214
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0625217171615822
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0598723193850579
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.05539746354164452
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0514974522317693
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
