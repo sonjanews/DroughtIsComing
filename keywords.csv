@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0961123639290212
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0929022395624065
-'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.08554967642672864
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0850277479611552
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0758535788341744
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0735788599572016
+'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0734672999627193
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0678513715442408
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.067114806428761
