@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0961123639290212
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0929022395624065
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0850277479611552
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.08199553933966802
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0735788599572016
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0734672999627193
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0412702294394813
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0193797655422569
-'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.016472800710918365
+'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0143828240843616
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0132786358391075
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0128371232481115
