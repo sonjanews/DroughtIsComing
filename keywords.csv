@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.10213551422852037
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0929022395624065
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0850277479611552
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0735788599572016
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0699962384387178
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0625757373704214
 'Wassermangel',de,Impacts,#357d49,#7eae80,1,0.0625217171615822
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0619296364022779
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.06142404081260468
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0614240408126046
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0598723193850579
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0595753029054901
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0553974635416445
