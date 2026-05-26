@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0699962384387178
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.067114806428761
-'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0661461652084682
+'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.06524398042719796
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0635394970503165
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0631972799683114
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0628420609636213
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0614240408126046
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,1,0.0598723193850579
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0595753029054901
-'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.05765324430494635
+'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0576532443049463
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0542260646307169
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0494396506973952
