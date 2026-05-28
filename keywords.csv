@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0929022395624065
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.08998451198171878
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0855060651844609
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.070181083646265
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,1,0.0652439804271979
