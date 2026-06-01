@@ -25,12 +25,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0412702294394813
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.036275203128868
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0307739953016354
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.016472800710918365
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0164728007109183
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0164728007109183
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0143828240843616
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0128371232481115
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0112868404632413
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0101163587365925
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.009593814393755106
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
