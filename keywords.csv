@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0933392215444932
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0831673236280455
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0817215594977008
-'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0809691174629616
+'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.07925041484351737
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0785486650418903
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,1,0.0652439804271979
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0095938143937551
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.008598904926103624
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
