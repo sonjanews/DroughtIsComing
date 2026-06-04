@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0933392215444932
+'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.09568847331281922
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0831673236280455
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0813893824696666
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0792504148435173
-'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.06956202020635076
+'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0695620202063507
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.0694637455730456
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0640237846591174
