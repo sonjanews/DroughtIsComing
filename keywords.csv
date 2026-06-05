@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0792504148435173
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0695620202063507
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,1,0.0694637455730456
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.06911059689269139
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,1,0.0679414511801159
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0640237846591174
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0628420609636213
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0619296364022779
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0614240408126046
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.05874442735878761
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.056108782492769
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0542260646307169
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
