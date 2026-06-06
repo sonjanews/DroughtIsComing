@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0412702294394813
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0311339526595378
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0307739953016354
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.02750803100639009
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0143828240843616
-'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.014001880604280554
+'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0110616147608947
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
