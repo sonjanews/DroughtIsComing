@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0890395926169897
-'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0813893824696666
+'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.07263132009921659
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0723602444685118
 'Wassermangel',de,Impacts,#357d49,#7eae80,3,0.0687070986039695
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0680446337370887
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0095938143937551
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.009552432546760496
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0095524325467604
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
