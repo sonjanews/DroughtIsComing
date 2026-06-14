@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0619296364022779
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0617786204012218
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.061736967084334
-'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.06063351533353589
+'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0576512938717247
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0543158418190781
@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0095938143937551
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0095524325467604
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.008304757234691835
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
