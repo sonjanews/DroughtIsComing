@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0095524325467604
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
-'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.008304757234691835
+'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0083047572346918
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.008269627664746341
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
