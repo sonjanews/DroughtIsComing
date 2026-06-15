@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0890395926169897
+'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.09290810599716852
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0719773852081531
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0712608396907139
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0675525301420679
@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0083047572346918
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.008269627664746341
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0082696276647463
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
