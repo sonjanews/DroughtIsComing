@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0617786204012218
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0616267970216839
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.06057207373710681
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0605720737371068
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
-'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0576512938717247
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0543158418190781
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0542260646307169
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
+'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.051703869790965994
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0497558276592043
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0496426601188536
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
