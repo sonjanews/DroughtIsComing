@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0543158418190781
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0542260646307169
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
-'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.051703869790965994
+'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0517038697909659
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0497558276592043
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0496426601188536
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0264638597606071
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0247319613554314
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0143828240843616
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.01237541547170736
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0085989049261036
