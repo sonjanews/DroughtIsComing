@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0439141122490925
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
-'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0264638597606071
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0247319613554314
+'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.022494280796516036
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0140018806042805
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0123754154717073
