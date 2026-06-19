@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0647631633568924
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0642177686395848
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0617786204012218
-'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0616267970216839
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
+'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.055533092468431314
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0552366376765407
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0545178466394774
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0543158418190781
