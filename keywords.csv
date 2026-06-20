@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0719773852081531
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0647631633568924
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0642177686395848
-'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0617786204012218
+'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,2,0.0617786204012218
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0555330924684313
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0448229393970039
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
-'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.037927055411728625
+'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0379270554117286
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0247319613554314
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.022494280796516
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
