@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0642177686395848
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
-'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.057464542341038524
+'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0574645423410385
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0555330924684313
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0552366376765407
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0545178466394774
@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0477986240073003
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.04542934851503435
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0448229393970039
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
@@ -31,6 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0083047572346918
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0082696276647463
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.007309069187188
