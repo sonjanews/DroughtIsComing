@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1076174594442871
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0929081059971685
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0697680860632937
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.08472884815379964
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0647631633568924
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0642177686395848
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0477986240073003
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0463909388779552
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.04542934851503435
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0454293485150343
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0448229393970039
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
