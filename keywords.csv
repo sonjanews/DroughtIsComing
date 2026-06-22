@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.12158810552764404
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.121588105527644
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0929081059971685
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0847288481537996
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.07202046593072965
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.069135478343647
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0647631633568924
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0606335153335358
