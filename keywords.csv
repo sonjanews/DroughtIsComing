@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,2,0.0929081059971685
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,2,0.0720204659307296
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0687620253062327
-'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0647631633568924
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0604085083631182
-'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.05876550159209995
+'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0587655015920999
+'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.05624880885335854
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0555330924684313
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0552366376765407
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0545178466394774
