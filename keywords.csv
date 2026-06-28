@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0687620253062327
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,2,0.0593873699896485
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0564740326739728
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0560015470250595
 'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0555330924684313
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0545178466394774
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0543753999846985
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0537978009898827
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.0519051770423528
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.051051659971300574
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0497558276592043
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0490116075253547
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.022494280796516
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0140018806042805
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0105191031509512
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.01011635873659264
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0101163587365926
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.007659103649488
