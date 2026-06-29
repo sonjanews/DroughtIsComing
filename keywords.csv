@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1081506996984974
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0967290397437228
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0924737200975932
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0784413683138474
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0687620253062327
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0537978009898827
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.0519051770423528
-'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.051051659971300574
+'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,2,0.0510516599713005
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0497558276592043
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0490116075253547
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
