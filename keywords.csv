@@ -2,16 +2,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0876235870829542
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.0868233594648396
 'Wassermangel',de,Impacts,#357d49,#7eae80,3,0.075784020033753
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.07577224215211667
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0757722421521166
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0727890248113001
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0641939369095768
-'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.0555330924684313
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,2,0.0543753999846985
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0542260646307169
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0541968601949037
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0537978009898827
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,3,0.0519051770423528
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
+'Hungersnot',de,Impacts,#458d49,#7eae80,2,0.050353443598166604
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,2,0.0497558276592043
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0490116075253547
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0479629047589808
