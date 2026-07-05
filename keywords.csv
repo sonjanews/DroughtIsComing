@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0433942259756054
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0279573530349739
-'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.022494280796516
+'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0191201386770386
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0105191031509512
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0101163587365926
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0101163587365926
