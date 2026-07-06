@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0917051012932383
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.0868233594648396
+'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.08275170609925256
 'Wassermangel',de,Impacts,#357d49,#7eae80,3,0.075784020033753
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0757722421521166
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.07115124119349012
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.0711512411934901
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0704586547259687
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0641939369095768
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0550226663479607
