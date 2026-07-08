@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.1008422449361093
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.09511430190875
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0827517060992525
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0808479816224375
 'Wassermangel',de,Impacts,#357d49,#7eae80,3,0.075784020033753
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0757722421521166
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0730232946988915
