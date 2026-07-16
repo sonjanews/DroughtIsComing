@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.1748823430462619
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1085684990451336
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0834732883661828
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.0773221455759938
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.08294721101232201
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.0746849903115883
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0706578891304214
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0454293485150343
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0448229393970039
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
-'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.04280075705844161
+'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0428007570584416
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0420561232388531
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0397353770792645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0279573530349739
