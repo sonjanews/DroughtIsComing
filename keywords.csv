@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.1748823430462619
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.1085684990451336
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0834732883661828
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.08294721101232201
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.082947211012322
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.0746849903115883
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0706578891304214
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
@@ -26,9 +26,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0397353770792645
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0279573530349739
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0191201386770386
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0089412376783085
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0085989049261037
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.007659103649488
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.007600052026562226
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0073090691871881
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0073090691871881
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0062127088091098
