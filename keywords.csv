@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0706578891304214
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.063559320196388
-'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.060964649691919545
+'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0566881669549042
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0562150113731402
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0550226663479607
