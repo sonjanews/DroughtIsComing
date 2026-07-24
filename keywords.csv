@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1375251908557591
+'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.16810480722739524
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.1058505571669298
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.0970230296150948
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,3,0.0934999485103236
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0062127088091098
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0062127088091098
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0052808024877433
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.002756611903617505
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0027566119036175
