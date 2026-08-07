@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1399238267062681
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.1293905285316881
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.1073723597743057
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.0853944100785475
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.10572027674858356
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.0773359015400713
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0686543706970223
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0680465166510925
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0632695663957666
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0599100913965515
-'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.05669169117633747
+'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0566916911763374
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0566881669549042
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0562150113731402
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,1,0.0547737349323092
