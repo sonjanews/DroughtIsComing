@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,3,0.2408581846334477
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1399238267062681
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.13075740548557918
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.1307574054855791
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.1293905285316881
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,2,0.126998989534867
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.1029972484181141
@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0562150113731402
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,1,0.0547737349323092
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
+'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.04765662032868825
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0470685555462163
-'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,1,0.0454293485150343
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0441609006565422
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0441201804859998
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0434582371061774
