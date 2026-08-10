@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,2,0.126998989534867
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.113913546644193
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.1029972484181141
-'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0680465166510925
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.067633850528239
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0658495734874533
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0632695663957666
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,1,0.0599100913965515
+'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.059039659153428625
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0566916911763374
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0566881669549042
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0562150113731402
@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0044886821145818
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0038153797973944
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.002866355940542615
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0028663559405426
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0023431201180748
