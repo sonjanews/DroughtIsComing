@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,2,0.1488241423900149
 'Dürre',de,Hazard,#c13030,#9f4e4e,1,0.1293905285316881
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,2,0.1293355603903512
-'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.10327209010427557
+'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.1032720901042755
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.096761520309213
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.0738172015311798
@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0038153797973945
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277852
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0024364025494612
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0023431201180748
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.00207094216704202
