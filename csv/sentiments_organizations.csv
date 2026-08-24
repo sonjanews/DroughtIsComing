@@ -1,224 +1,234 @@
 ,phrase,label,sentiment,subjectivity,language,count
 picture alliance,picture alliance,ORG,0.0707070707070707,0.20202020202020202,de,9.9
-UN,UN,ORG,-0.15750915750915745,0.07326007326007325,de,9.100000000000001
 Grüne,Grüne,ORG,-0.47252747252747246,0.10989010989010987,de,9.100000000000001
+UN,UN,ORG,-0.15750915750915745,0.07326007326007325,de,9.100000000000001
 GEO,GEO,ORG,1.0769230769230769,0.0,de,6.500000000000001
 CDU,CDU,ORG,0.0,0.33333333333333326,de,6.000000000000001
 EU-Länder,EU-Länder,ORG,-0.27192982456140347,0.17543859649122806,de,5.7
 Red Bull,Red Bull,ORG,0.0,0.0,de,4.900000000000002
-UN-Bericht,UN-Bericht,ORG,-0.15217391304347827,0.2173913043478261,de,4.6
-Dürre,Dürre,ORG,0.15217391304347827,0.0,de,4.6
 ÖVP,ÖVP,ORG,0.0,0.2173913043478261,de,4.6
+Dürre,Dürre,ORG,0.15217391304347827,0.0,de,4.6
+UN-Bericht,UN-Bericht,ORG,-0.15217391304347827,0.2173913043478261,de,4.6
 TTS-Player,TTS-Player,ORG,0.15555555555555556,0.2222222222222222,de,4.5
 EU,EU,ORG,-0.18421052631578946,0.2631578947368421,de,3.8
+Umweltministerium,Umweltministerium,ORG,-0.4594594594594595,0.0,de,3.6999999999999997
+Rekorde,Rekorde,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
 Universität Potsdam,Universität Potsdam,ORG,0.2702702702702703,0.0,de,3.6999999999999997
 LfU,LfU,ORG,0.1891891891891892,0.0,de,3.6999999999999997
 IT-Sicherheit,IT-Sicherheit,ORG,0.3783783783783784,0.0,de,3.6999999999999997
-Rekorde,Rekorde,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
-Umweltministerium,Umweltministerium,ORG,-0.4594594594594595,0.0,de,3.6999999999999997
 SPD,SPD,ORG,-0.21874999999999997,0.0,de,3.2
 DWD,DWD,ORG,0.3225806451612903,0.0,de,3.1
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.32258064516129037,0.0,de,3.0999999999999996
 UN-Ziel,UN-Ziel,ORG,0.5499999999999999,0.0,de,3.0
-UN-Experten,UN-Experten,ORG,-0.5476190476190476,0.0,de,2.8
-ei…,ei…,ORG,0.0,0.0,de,2.8
-LMBV,LMBV,ORG,-0.5,0.0,de,2.8
-Bund,Bund,ORG,0.0,0.35714285714285715,de,2.8
-Die Grünen,Die Grünen,ORG,0.0,0.0,de,2.8
-katholische Kirche,katholische Kirche,ORG,-0.16071428571428575,0.0,de,2.8
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.25,0.0,de,2.8
 d…,d…,ORG,0.0,0.0,de,2.8
 be…,be…,ORG,0.0,0.0,de,2.8
 EZB,EZB,ORG,0.35714285714285715,0.0,de,2.8
+ei…,ei…,ORG,0.0,0.0,de,2.8
+Bundesanstalt für Gewässerkunde,Bundesanstalt für Gewässerkunde,ORG,0.0,0.0,de,2.8
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.25,0.0,de,2.8
 junge Welt,junge Welt,ORG,0.35714285714285715,0.35714285714285715,de,2.8
+Die Grünen,Die Grünen,ORG,0.0,0.0,de,2.8
+katholische Kirche,katholische Kirche,ORG,-0.16071428571428575,0.0,de,2.8
+UN-Experten,UN-Experten,ORG,-0.5476190476190476,0.0,de,2.8
+Bund,Bund,ORG,0.0,0.35714285714285715,de,2.8
+LMBV,LMBV,ORG,-0.5,0.0,de,2.8
 lhe,lhe,ORG,-0.6851851851851851,0.0,de,2.7
 Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,2.0
-IUCN,IUCN,ORG,-0.5,0.0,de,2.0
-Weltnaturschutzunion,Weltnaturschutzunion,ORG,-0.5,0.0,de,2.0
 Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,-0.35,0.0,de,2.0
 RKI,RKI,ORG,-0.35,0.0,de,2.0
-Pools,Pools,ORG,0.3684210526315789,0.0,de,1.9
-Landesamt für Umwelt: Jahr,Landesamt für Umwelt: Jahr,ORG,0.0,0.0,de,1.9
-Tour de France,Tour de France,ORG,0.0,0.0,de,1.9
-Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.3684210526315789,0.0,de,1.9
-WTW,WTW,ORG,0.4473684210526316,0.0,de,1.9
+Weltnaturschutzunion,Weltnaturschutzunion,ORG,-0.5,0.0,de,2.0
+IUCN,IUCN,ORG,-0.5,0.0,de,2.0
+Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-0.5263157894736842,0.0,de,1.9
+Trinkwasserversorgun…,Trinkwasserversorgun…,ORG,0.0,0.0,de,1.9
 Water Patrol,Water Patrol,ORG,0.0,0.0,de,1.9
+AKW Cernavoda,AKW Cernavoda,ORG,0.0,0.5263157894736842,de,1.9
 Nationalbank,Nationalbank,ORG,-0.7368421052631579,0.0,de,1.9
-OeNB,OeNB,ORG,-0.3684210526315789,0.0,de,1.9
-UNO,UNO,ORG,-0.035087719298245605,0.2631578947368421,de,1.9
+WFP,WFP,ORG,0.0,0.0,de,1.9
+Smart Water Europe,Smart Water Europe,ORG,0.7368421052631579,0.0,de,1.9
+SVP,SVP,ORG,0.0,0.0,de,1.9
 Bonn.digital,Bonn.digital,ORG,0.0,0.0,de,1.9
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.9
-Leipziger Helmholtz-Zentrum,Leipziger Helmholtz-Zentrum,ORG,0.0,0.0,de,1.9
-Universitätsmedizin Halle,Universitätsmedizin Halle,ORG,0.0,0.0,de,1.9
+Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,1.9
+Lausitzer- und Mitteldeutsche Bergbauverwaltungsgesellschaft,Lausitzer- und Mitteldeutsche Bergbauverwaltungsgesellschaft,ORG,-0.7368421052631579,0.0,de,1.9
+KI-Rechenzentren,KI-Rechenzentren,ORG,0.7368421052631579,0.0,de,1.9
+OeNB,OeNB,ORG,-0.3684210526315789,0.0,de,1.9
+Vereinten Nationen,Vereinten Nationen,ORG,0.4912280701754386,0.0,de,1.9
 Landesamts für Umwelt Brandenburg,Landesamts für Umwelt Brandenburg,ORG,0.0,0.0,de,1.9
 Bund Millionen,Bund Millionen,ORG,-1.0526315789473684,0.0,de,1.9
-Diario Uno,Diario Uno,ORG,0.0,0.0,de,1.9
-SVP,SVP,ORG,0.0,0.0,de,1.9
-La…,La…,ORG,0.0,0.0,de,1.9
-Lausitzer- und Mitteldeutsche Bergbauverwaltungsgesellschaft,Lausitzer- und Mitteldeutsche Bergbauverwaltungsgesellschaft,ORG,-0.7368421052631579,0.0,de,1.9
-die Grünen,die Grünen,ORG,0.0,0.0,de,1.9
-Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,1.9
-Middle East Images,Middle East Images,ORG,0.0,0.5263157894736842,de,1.9
-Deutschland,Deutschland,ORG,0.0,0.0,de,1.9
-Vieh,Vieh,ORG,-0.5263157894736842,0.0,de,1.9
-Vereinten Nationen,Vereinten Nationen,ORG,0.4912280701754386,0.0,de,1.9
-Spektrum.de,Spektrum.de,ORG,0.0,0.0,de,1.9
-Endlich Freitag!,Endlich Freitag!,ORG,1.0526315789473684,0.0,de,1.9
-Europäischen Union,Europäischen Union,ORG,0.0,0.5263157894736842,de,1.9
-Nvidia,Nvidia,ORG,0.0,0.0,de,1.9
-Wassermangel,Wassermangel,ORG,0.0,0.0,de,1.9
-Sachsen-Anhalt,Sachsen-Anhalt,ORG,0.0,0.0,de,1.9
-Kachowka-Staudamm,Kachowka-Staudamm,ORG,0.0,0.0,de,1.9
-WWF,WWF,ORG,0.0,0.5263157894736842,de,1.9
-Phoenix,Phoenix,ORG,0.0,0.0,de,1.9
-dpa,dpa,ORG,0.0,0.0,de,1.9
-au…,au…,ORG,0.0,0.0,de,1.9
-WFP,WFP,ORG,0.0,0.0,de,1.9
-Taliban,Taliban,ORG,0.5263157894736842,0.0,de,1.9
-Ungarns,Ungarns,ORG,-1.0526315789473684,0.0,de,1.9
-KI-Rechenzentren,KI-Rechenzentren,ORG,0.7368421052631579,0.0,de,1.9
 Deutsche Dürremonitor,Deutsche Dürremonitor,ORG,-0.3684210526315789,0.2631578947368421,de,1.9
-Trinkwasserversorgun…,Trinkwasserversorgun…,ORG,0.0,0.0,de,1.9
-D…,D…,ORG,0.0,0.0,de,1.9
+Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.3684210526315789,0.0,de,1.9
+Landesamt für Umwelt: Jahr,Landesamt für Umwelt: Jahr,ORG,0.0,0.0,de,1.9
+Leipziger Helmholtz-Zentrum,Leipziger Helmholtz-Zentrum,ORG,0.0,0.0,de,1.9
+Tour de France,Tour de France,ORG,0.0,0.0,de,1.9
+Diario Uno,Diario Uno,ORG,0.0,0.0,de,1.9
+Middle East Images,Middle East Images,ORG,0.0,0.5263157894736842,de,1.9
+WTW,WTW,ORG,0.4473684210526316,0.0,de,1.9
+Deutschland,Deutschland,ORG,0.0,0.0,de,1.9
+DAV,DAV,ORG,-0.5263157894736842,0.0,de,1.9
 ARGE Rind,ARGE Rind,ORG,-0.14035087719298248,0.2631578947368421,de,1.9
-Smart Water Europe,Smart Water Europe,ORG,0.7368421052631579,0.0,de,1.9
+dpa,dpa,ORG,0.0,0.0,de,1.9
+Pools,Pools,ORG,0.3684210526315789,0.0,de,1.9
+au…,au…,ORG,0.0,0.0,de,1.9
+WWF,WWF,ORG,0.0,0.5263157894736842,de,1.9
+UNO,UNO,ORG,-0.035087719298245605,0.2631578947368421,de,1.9
+die Grünen,die Grünen,ORG,0.0,0.0,de,1.9
+Europäischen Union,Europäischen Union,ORG,0.0,0.5263157894736842,de,1.9
+Ungarns,Ungarns,ORG,-1.0526315789473684,0.0,de,1.9
+D…,D…,ORG,0.0,0.0,de,1.9
+La…,La…,ORG,0.0,0.0,de,1.9
+Taliban,Taliban,ORG,0.5263157894736842,0.0,de,1.9
+Kachowka-Staudamm,Kachowka-Staudamm,ORG,0.0,0.0,de,1.9
+Phoenix,Phoenix,ORG,0.0,0.0,de,1.9
+Wassermangel,Wassermangel,ORG,0.0,0.0,de,1.9
+Nvidia,Nvidia,ORG,0.0,0.0,de,1.9
+Verfassung,Verfassung,ORG,0.0,0.0,de,1.9
+Vieh,Vieh,ORG,-0.5263157894736842,0.0,de,1.9
+Endlich Freitag!,Endlich Freitag!,ORG,1.0526315789473684,0.0,de,1.9
+Sachsen-Anhalt,Sachsen-Anhalt,ORG,0.0,0.0,de,1.9
+Deutsche…,Deutsche…,ORG,-0.7368421052631579,0.0,de,1.9
+Universitätsmedizin Halle,Universitätsmedizin Halle,ORG,0.0,0.0,de,1.9
+Spektrum.de,Spektrum.de,ORG,0.0,0.0,de,1.9
 Dosen-Werk,Dosen-Werk,ORG,0.0,0.0,de,1.3000000000000003
 Bürgerinitiative,Bürgerinitiative,ORG,-1.7499999999999996,0.0,de,1.2000000000000002
 Baumprogramm für Berlin,Baumprogramm für Berlin,ORG,-1.7499999999999996,0.0,de,1.2000000000000002
-UNHCR,UNHCR,ORG,0.0,0.9090909090909091,de,1.1
 UN-Angaben,UN-Angaben,ORG,-0.9848484848484848,0.0,de,1.1
-EY,EY,ORG,0.0,0.0,de,1.1
+UNHCR,UNHCR,ORG,0.0,0.9090909090909091,de,1.1
 Tesla,Tesla,ORG,0.0,0.0,de,1.1
-Getränkeabfüller Urstromquelle,Getränkeabfüller Urstromquelle,ORG,0.0,0.0,de,1.1
 Was…,Was…,ORG,0.0,0.0,de,1.1
-deutschen Marine,deutschen Marine,ORG,0.0,0.0,de,1.0
-Erdb…,Erdb…,ORG,0.0,0.0,de,1.0
-State Uni…,State Uni…,ORG,1.0,0.0,de,1.0
-Hungersteine,Hungersteine,ORG,0.0,0.0,de,1.0
-Guardian,Guardian,ORG,0.0,0.0,de,1.0
-BBC,BBC,ORG,0.0,0.0,de,1.0
-Somm…,Somm…,ORG,0.0,0.0,de,1.0
-US-Angriff,US-Angriff,ORG,0.0,0.0,de,1.0
-Schneewittchens Glassarg,Schneewittchens Glassarg,ORG,-1.0,0.0,de,1.0
-Sonntagsfahrverbot für Lkw,Sonntagsfahrverbot für Lkw,ORG,0.0,0.0,de,1.0
-Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-1.0,0.0,de,1.0
-DAV,DAV,ORG,-1.0,0.0,de,1.0
-US-Operation,US-Operation,ORG,0.0,0.0,de,1.0
-Welternährungsprogramms,Welternährungsprogramms,ORG,0.0,0.0,de,1.0
-Online-Charts,Online-Charts,ORG,0.0,0.0,de,1.0
-HUGEL,HUGEL,ORG,0.0,0.0,de,1.0
-Deutsche Tierschutzbund,Deutsche Tierschutzbund,ORG,0.0,0.0,de,1.0
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
-Z…,Z…,ORG,0.0,0.0,de,1.0
+Getränkeabfüller Urstromquelle,Getränkeabfüller Urstromquelle,ORG,0.0,0.0,de,1.1
+EY,EY,ORG,0.0,0.0,de,1.1
+Deutschen Bank,Deutschen Bank,ORG,0.7,0.0,de,1.0
+Shutterstock.com,Shutterstock.com,ORG,-0.7,0.0,de,1.0
 Tirol…,Tirol…,ORG,0.0,0.0,de,1.0
-Kirche,Kirche,ORG,0.0,0.0,de,1.0
-Dürremanagementplan,Dürremanagementplan,ORG,0.0,0.0,de,1.0
-Universität für Bodenkultur,Universität für Bodenkultur,ORG,0.7,0.0,de,1.0
-BOKU,BOKU,ORG,0.7,0.0,de,1.0
-deutschen Wirtschaft,deutschen Wirtschaft,ORG,-1.0,0.0,de,1.0
-Atomkraftwerk,Atomkraftwerk,ORG,0.0,0.0,de,1.0
-SLV,SLV,ORG,1.0,0.0,de,1.0
-Unabhängige Bauernverband,Unabhängige Bauernverband,ORG,0.35,0.0,de,1.0
-si…,si…,ORG,-0.5,0.0,de,1.0
-…,…,ORG,0.0,0.0,de,1.0
-ARMOUR,ARMOUR,ORG,0.0,0.0,de,1.0
-Niederschlagsmuster,Niederschlagsmuster,ORG,1.0,0.0,de,1.0
-Amazone,Amazone,ORG,0.0,0.0,de,1.0
-CSU,CSU,ORG,0.0,0.0,de,1.0
-Uni Potsdam,Uni Potsdam,ORG,0.0,0.0,de,1.0
-F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.0
-Universität Potsdam e…,Universität Potsdam e…,ORG,1.0,0.0,de,1.0
-FPÖ,FPÖ,ORG,0.0,0.0,de,1.0
-Amazon Web Services,Amazon Web Services,ORG,0.0,0.0,de,1.0
-Portugal,Portugal,ORG,-1.0,0.0,de,1.0
-Hitzeperi…,Hitzeperi…,ORG,0.0,0.0,de,1.0
-BUND,BUND,ORG,0.0,0.0,de,1.0
-Hirse,Hirse,ORG,0.0,0.0,de,1.0
-Greenpeace,Greenpeace,ORG,0.0,0.0,de,1.0
-Eskalation,Eskalation,ORG,0.0,0.0,de,1.0
-Westbank,Westbank,ORG,0.0,0.0,de,1.0
-Bund für Umwelt und Naturschutz Deutschland,Bund für Umwelt und Naturschutz Deutschland,ORG,0.0,0.0,de,1.0
-Minus-Rekord,Minus-Rekord,ORG,-1.0,0.0,de,1.0
-bayerisc…,bayerisc…,ORG,0.0,0.0,de,1.0
 Hardware-Dürre!,Hardware-Dürre!,ORG,0.0,0.0,de,1.0
-we…,we…,ORG,0.0,0.0,de,1.0
-Niedrigwasser-Konferenz,Niedrigwasser-Konferenz,ORG,0.0,0.0,de,1.0
-Aufh…,Aufh…,ORG,0.0,0.0,de,1.0
+bayerisc…,bayerisc…,ORG,0.0,0.0,de,1.0
+Minus-Rekord,Minus-Rekord,ORG,-1.0,0.0,de,1.0
+Stadtwerke München,Stadtwerke München,ORG,0.0,0.0,de,1.0
+Hand +++,Hand +++,ORG,0.0,0.0,de,1.0
 auf&nbsp;und,auf&nbsp;und,ORG,0.0,0.0,de,1.0
-Rhein-Vertiefung,Rhein-Vertiefung,ORG,0.0,0.0,de,1.0
-Getreideprodukt…,Getreideprodukt…,ORG,0.0,0.0,de,1.0
-AMA heuer Getreide in Höhe,AMA heuer Getreide in Höhe,ORG,0.0,0.0,de,1.0
-EU-Kommission,EU-Kommission,ORG,0.7,0.0,de,1.0
-Koh Samui,Koh Samui,ORG,0.7,0.0,de,1.0
-Pegel Duisburg-Ruhrort,Pegel Duisburg-Ruhrort,ORG,0.0,0.0,de,1.0
-schwarz-rote Regierung,schwarz-rote Regierung,ORG,0.0,0.0,de,1.0
-Tr…,Tr…,ORG,-0.35,0.0,de,1.0
-Bundesanstalt für Gewässerkunde,Bundesanstalt für Gewässerkunde,ORG,0.0,0.0,de,1.0
-einstimmi…,einstimmi…,ORG,0.0,0.0,de,1.0
-Bundestag,Bundestag,ORG,0.0,0.0,de,1.0
-Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,ORG,0.85,0.0,de,1.0
-SPSG,SPSG,ORG,0.85,0.0,de,1.0
-Deutschen Presse-Agen…,Deutschen Presse-Agen…,ORG,0.0,0.0,de,1.0
-SPD-Politikerin,SPD-Politikerin,ORG,0.0,0.0,de,1.0
-Breitenbuch,Breitenbuch,ORG,-0.85,0.0,de,1.0
-ble…,ble…,ORG,0.0,0.0,de,1.0
-Kartoffel-Ernte,Kartoffel-Ernte,ORG,0.7,0.0,de,1.0
-Griechenland,Griechenland,ORG,0.0,0.0,de,1.0
-Lan…,Lan…,ORG,0.0,0.0,de,1.0
-Fachbe…,Fachbe…,ORG,-1.0,0.0,de,1.0
-Kieler Institut für Weltwirtscha…,Kieler Institut für Weltwirtscha…,ORG,0.0,0.0,de,1.0
-Dominikaner,Dominikaner,ORG,-1.0,0.0,de,1.0
-Entnah…,Entnah…,ORG,0.7,0.0,de,1.0
-Dominikanerorden,Dominikanerorden,ORG,-0.15000000000000002,0.0,de,1.0
-exz…,exz…,ORG,0.7,0.0,de,1.0
-IMAGO/Funke Foto Services,IMAGO/Funke Foto Services,ORG,0.0,0.0,de,1.0
-CLAUDIA BOTHE,CLAUDIA BOTHE,ORG,0.0,0.0,de,1.0
-SANDRA LIERMANN,SANDRA LIERMANN,ORG,0.0,0.0,de,1.0
-FRAUKE,FRAUKE,ORG,0.0,0.0,de,1.0
-Land…,Land…,ORG,-0.35,0.0,de,1.0
-bri…,bri…,ORG,0.0,0.0,de,1.0
-Schiffsverkehr,Schiffsverkehr,ORG,0.0,0.0,de,1.0
-Blic…,Blic…,ORG,0.0,0.0,de,1.0
-Kraftwerks,Kraftwerks,ORG,0.0,0.0,de,1.0
-IHK,IHK,ORG,0.0,0.0,de,1.0
-Verband Kommunaler Unternehmen,Verband Kommunaler Unternehmen,ORG,0.0,0.0,de,1.0
-Lokalparlaments,Lokalparlaments,ORG,0.0,0.0,de,1.0
+Westbank,Westbank,ORG,0.0,0.0,de,1.0
+Eskalation,Eskalation,ORG,0.0,0.0,de,1.0
+Niedrigwasser +++ Warnung,Niedrigwasser +++ Warnung,ORG,0.0,0.0,de,1.0
+Greenpeace,Greenpeace,ORG,0.0,0.0,de,1.0
+NIWI,NIWI,ORG,0.0,0.0,de,1.0
+Z…,Z…,ORG,0.0,0.0,de,1.0
+Hirse,Hirse,ORG,0.0,0.0,de,1.0
+gießen,gießen,ORG,0.0,0.0,de,1.0
+HUGEL,HUGEL,ORG,0.0,0.0,de,1.0
+Dürremanagementplan,Dürremanagementplan,ORG,0.0,0.0,de,1.0
 SPD-Verordneten,SPD-Verordneten,ORG,0.0,0.0,de,1.0
-Wasserf…,Wasserf…,ORG,0.0,0.0,de,1.0
+Online-Charts,Online-Charts,ORG,0.0,0.0,de,1.0
+Universität für Bodenkultur,Universität für Bodenkultur,ORG,0.7,0.0,de,1.0
+US-Operation,US-Operation,ORG,0.0,0.0,de,1.0
+US-Angriff,US-Angriff,ORG,0.0,0.0,de,1.0
 Friedrichsdorf/Taunus,Friedrichsdorf/Taunus,ORG,0.0,0.0,de,1.0
-Wasserk…,Wasserk…,ORG,0.7,0.0,de,1.0
+Schneewittchens Glassarg,Schneewittchens Glassarg,ORG,-1.0,0.0,de,1.0
+Lokalparlaments,Lokalparlaments,ORG,0.0,0.0,de,1.0
+Guardian,Guardian,ORG,0.0,0.0,de,1.0
+State Uni…,State Uni…,ORG,1.0,0.0,de,1.0
+EU-Kommission,EU-Kommission,ORG,0.7,0.0,de,1.0
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
 Eltviller Weinbauamtes,Eltviller Weinbauamtes,ORG,0.0,0.0,de,1.0
 Wasserma…,Wasserma…,ORG,0.0,0.0,de,1.0
 Wasserstraßen- und Schifffahrtsamts,Wasserstraßen- und Schifffahrtsamts,ORG,0.0,0.0,de,1.0
 Münchner Stadtwerke,Münchner Stadtwerke,ORG,-0.7,0.0,de,1.0
-Bund und Länder,Bund und Länder,ORG,0.0,0.0,de,1.0
+Erdb…,Erdb…,ORG,0.0,0.0,de,1.0
 SWM,SWM,ORG,-0.7,0.0,de,1.0
-Tag…,Tag…,ORG,0.0,0.0,de,1.0
-MS Ossiach,MS Ossiach,ORG,0.0,0.0,de,1.0
-gießen,gießen,ORG,0.0,0.0,de,1.0
+BOKU,BOKU,ORG,0.7,0.0,de,1.0
+Verband Kommunaler Unternehmen,Verband Kommunaler Unternehmen,ORG,0.0,0.0,de,1.0
 VKU,VKU,ORG,0.0,0.0,de,1.0
 Genehmigungsf…,Genehmigungsf…,ORG,0.0,0.0,de,1.0
-Donn…,Donn…,ORG,-0.5,0.0,de,1.0
-YONHAPNEWS AGENCY,YONHAPNEWS AGENCY,ORG,-0.7,0.0,de,1.0
-Lockerungen für Lkw,Lockerungen für Lkw,ORG,-0.35,0.0,de,1.0
-Rumänien,Rumänien,ORG,0.0,0.0,de,1.0
-Deutschen Bank,Deutschen Bank,ORG,0.7,0.0,de,1.0
-Merz-Regierung,Merz-Regierung,ORG,-0.15000000000000002,0.0,de,1.0
-Shutterstock.com,Shutterstock.com,ORG,-0.7,0.0,de,1.0
-Hand +++,Hand +++,ORG,0.0,0.0,de,1.0
-Niedrigwasser +++ Warnung,Niedrigwasser +++ Warnung,ORG,0.0,0.0,de,1.0
-NIWI,NIWI,ORG,0.0,0.0,de,1.0
-Stadtwerke München,Stadtwerke München,ORG,0.0,0.0,de,1.0
+…,…,ORG,0.0,0.0,de,1.0
 Univers…,Univers…,ORG,0.0,0.0,de,1.0
-ge…,ge…,ORG,0.0,0.0,de,1.0
+Fachbe…,Fachbe…,ORG,-1.0,0.0,de,1.0
+BUND,BUND,ORG,0.0,0.0,de,1.0
+Merz-Regierung,Merz-Regierung,ORG,-0.15000000000000002,0.0,de,1.0
+Donn…,Donn…,ORG,-0.5,0.0,de,1.0
+si…,si…,ORG,-0.5,0.0,de,1.0
+Sonntagsfahrverbot für Lkw,Sonntagsfahrverbot für Lkw,ORG,0.0,0.0,de,1.0
+Portugal,Portugal,ORG,-1.0,0.0,de,1.0
+FPÖ,FPÖ,ORG,0.0,0.0,de,1.0
+Hitzeperi…,Hitzeperi…,ORG,0.0,0.0,de,1.0
+Bund für Umwelt und Naturschutz Deutschland,Bund für Umwelt und Naturschutz Deutschland,ORG,0.0,0.0,de,1.0
+deutschen Marine,deutschen Marine,ORG,0.0,0.0,de,1.0
+Deutsche Alpenverein,Deutsche Alpenverein,ORG,-0.7,0.0,de,1.0
+we…,we…,ORG,0.0,0.0,de,1.0
+Niedrigwasser-Konferenz,Niedrigwasser-Konferenz,ORG,0.0,0.0,de,1.0
+Rhein-Vertiefung,Rhein-Vertiefung,ORG,0.0,0.0,de,1.0
+Getreideprodukt…,Getreideprodukt…,ORG,0.0,0.0,de,1.0
+AMA heuer Getreide in Höhe,AMA heuer Getreide in Höhe,ORG,0.0,0.0,de,1.0
+deutsche Alpenverein,deutsche Alpenverein,ORG,0.0,0.0,de,1.0
+schwarz-rote Regierung,schwarz-rote Regierung,ORG,0.0,0.0,de,1.0
+Land…,Land…,ORG,-0.35,0.0,de,1.0
+Dominikanerorden,Dominikanerorden,ORG,-0.15000000000000002,0.0,de,1.0
+Dominikaner,Dominikaner,ORG,-1.0,0.0,de,1.0
+Robert-Koch-In…,Robert-Koch-In…,ORG,0.0,0.0,de,1.0
+di…,di…,ORG,0.0,0.0,de,1.0
+Klimastress,Klimastress,ORG,0.0,0.0,de,1.0
+Bayerische…,Bayerische…,ORG,0.0,0.0,de,1.0
+Dürresom…,Dürresom…,ORG,0.0,0.0,de,1.0
+LageBauern,LageBauern,ORG,-0.7999999999999999,0.0,de,1.0
+Gesch…,Gesch…,ORG,0.0,0.0,de,1.0
+Euro Bußgeld,Euro Bußgeld,ORG,0.0,0.0,de,1.0
+F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.0
+Aufh…,Aufh…,ORG,0.0,0.0,de,1.0
+SLV,SLV,ORG,1.0,0.0,de,1.0
+Hungersteine,Hungersteine,ORG,0.0,0.0,de,1.0
+Somm…,Somm…,ORG,0.0,0.0,de,1.0
+Wasserf…,Wasserf…,ORG,0.0,0.0,de,1.0
+Lockerungen für Lkw,Lockerungen für Lkw,ORG,-0.35,0.0,de,1.0
+Unabhängige Bauernverband,Unabhängige Bauernverband,ORG,0.35,0.0,de,1.0
+Welternährungsprogramms,Welternährungsprogramms,ORG,0.0,0.0,de,1.0
+Tr…,Tr…,ORG,-0.35,0.0,de,1.0
+SANDRA LIERMANN,SANDRA LIERMANN,ORG,0.0,0.0,de,1.0
+Kieler Institut für Weltwirtscha…,Kieler Institut für Weltwirtscha…,ORG,0.0,0.0,de,1.0
+Entnah…,Entnah…,ORG,0.7,0.0,de,1.0
+bri…,bri…,ORG,0.0,0.0,de,1.0
+BBC,BBC,ORG,0.0,0.0,de,1.0
+IHK,IHK,ORG,0.0,0.0,de,1.0
+Schiffsverkehr,Schiffsverkehr,ORG,0.0,0.0,de,1.0
+FRAUKE,FRAUKE,ORG,0.0,0.0,de,1.0
+CLAUDIA BOTHE,CLAUDIA BOTHE,ORG,0.0,0.0,de,1.0
+Deutsche Tierschutzbund,Deutsche Tierschutzbund,ORG,0.0,0.0,de,1.0
+IMAGO/Funke Foto Services,IMAGO/Funke Foto Services,ORG,0.0,0.0,de,1.0
+exz…,exz…,ORG,0.7,0.0,de,1.0
+Lan…,Lan…,ORG,0.0,0.0,de,1.0
+Deutschen Presse-Agen…,Deutschen Presse-Agen…,ORG,0.0,0.0,de,1.0
+SPSG,SPSG,ORG,0.85,0.0,de,1.0
+Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg,ORG,0.85,0.0,de,1.0
+Bundestag,Bundestag,ORG,0.0,0.0,de,1.0
+Kartoffel-Ernte,Kartoffel-Ernte,ORG,0.7,0.0,de,1.0
+ble…,ble…,ORG,0.0,0.0,de,1.0
+Breitenbuch,Breitenbuch,ORG,-0.85,0.0,de,1.0
+SPD-Politikerin,SPD-Politikerin,ORG,0.0,0.0,de,1.0
+Kirche,Kirche,ORG,0.0,0.0,de,1.0
+deutschen Wirtschaft,deutschen Wirtschaft,ORG,-1.0,0.0,de,1.0
+Atomkraftwerk,Atomkraftwerk,ORG,0.0,0.0,de,1.0
+Pegel Duisburg-Ruhrort,Pegel Duisburg-Ruhrort,ORG,0.0,0.0,de,1.0
+Koh Samui,Koh Samui,ORG,0.7,0.0,de,1.0
+Bürger Wasser,Bürger Wasser,ORG,0.0,0.0,de,1.0
+Wasserk…,Wasserk…,ORG,0.7,0.0,de,1.0
+Bund und Länder,Bund und Länder,ORG,0.0,0.0,de,1.0
+Tag…,Tag…,ORG,0.0,0.0,de,1.0
+MS Ossiach,MS Ossiach,ORG,0.0,0.0,de,1.0
+YONHAPNEWS AGENCY,YONHAPNEWS AGENCY,ORG,-0.7,0.0,de,1.0
+Rumänien,Rumänien,ORG,0.0,0.0,de,1.0
+Kraftwerks,Kraftwerks,ORG,0.0,0.0,de,1.0
+Blic…,Blic…,ORG,0.0,0.0,de,1.0
+einstimmi…,einstimmi…,ORG,0.0,0.0,de,1.0
+Amazon Web Services,Amazon Web Services,ORG,0.0,0.0,de,1.0
+sa,sa,ORG,0.0,0.0,de,1.0
+Universität Potsdam e…,Universität Potsdam e…,ORG,1.0,0.0,de,1.0
+EU-Staaten,EU-Staaten,ORG,0.0,0.0,de,1.0
 Fe…,Fe…,ORG,0.0,0.0,de,1.0
+On…,On…,ORG,0.85,0.0,de,1.0
 Peses…,Peses…,ORG,0.0,0.0,de,1.0
 C…,C…,ORG,0.0,0.0,de,1.0
 COP,COP,ORG,0.0,0.0,de,1.0
 Brasilien,Brasilien,ORG,0.0,0.0,de,1.0
 University of Illinois Chicago könnt…,University of Illinois Chicago könnt…,ORG,0.0,0.0,de,1.0
-EU-Staaten,EU-Staaten,ORG,0.0,0.0,de,1.0
 Nabaanda Primary School,Nabaanda Primary School,ORG,0.7,0.0,de,1.0
+Katholische Kirche,Katholische Kirche,ORG,0.0,0.0,de,1.0
 Umweltmin…,Umweltmin…,ORG,0.0,0.0,de,1.0
 Global Tipping Points Report,Global Tipping Points Report,ORG,0.35,0.0,de,1.0
 Zu…,Zu…,ORG,1.0,0.0,de,1.0
@@ -226,17 +236,19 @@ Zerstörun…,Zerstörun…,ORG,0.425,0.0,de,1.0
 Regenwald-Abholzung,Regenwald-Abholzung,ORG,0.0,0.0,de,1.0
 Kleinvieh,Kleinvieh,ORG,0.0,0.0,de,1.0
 Immunsys…,Immunsys…,ORG,0.0,0.0,de,1.0
-Nachshoppen,Nachshoppen,ORG,0.0,0.0,de,1.0
-On…,On…,ORG,0.85,0.0,de,1.0
 Abendst…,Abendst…,ORG,-1.0,0.0,de,1.0
-Groß…,Groß…,ORG,0.0,0.0,de,1.0
-Katholische Kirche,Katholische Kirche,ORG,0.0,0.0,de,1.0
+Whitney Museum,Whitney Museum,ORG,0.0,0.0,de,1.0
+Uni Potsdam,Uni Potsdam,ORG,0.0,0.0,de,1.0
+Cloud Seeding,Cloud Seeding,ORG,0.0,0.0,de,1.0
+Irans Regierung,Irans Regierung,ORG,-0.5,0.0,de,1.0
+Abgrund,Abgrund,ORG,-1.0,0.0,de,1.0
+Raumsch…,Raumsch…,ORG,0.0,0.0,de,1.0
 Energiesektors,Energiesektors,ORG,0.0,0.0,de,1.0
 Europä­ischen Zentralbank,Europä­ischen Zentralbank,ORG,1.0,0.0,de,1.0
 ISTA,ISTA,ORG,0.35,0.0,de,1.0
 Institute of Science and Technology Austria,Institute of Science and Technology Austria,ORG,0.35,0.0,de,1.0
-Cloud Seeding,Cloud Seeding,ORG,0.0,0.0,de,1.0
 voi,voi,ORG,0.7,0.0,de,1.0
+Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
 K…,K…,ORG,0.0,0.0,de,1.0
 Treibhausgas CO,Treibhausgas CO,ORG,0.0,0.0,de,1.0
 UN-Flüchtlingshilfswerk,UN-Flüchtlingshilfswerk,ORG,0.0,0.0,de,1.0
@@ -246,20 +258,19 @@ UN-Flüchtlingshilfswerk,UN-Flüchtlingshilfswerk,ORG,0.0,0.0,de,1.0
 Countdown zu…,Countdown zu…,ORG,0.0,0.0,de,1.0
 Countdown…,Countdown…,ORG,0.0,0.0,de,1.0
 Wass…,Wass…,ORG,0.0,0.0,de,1.0
-Wasserentnahm…,Wasserentnahm…,ORG,0.0,0.0,de,1.0
-Whitney Museum,Whitney Museum,ORG,0.0,0.0,de,1.0
+Nachshoppen,Nachshoppen,ORG,0.0,0.0,de,1.0
 BRIGITTE,BRIGITTE,ORG,0.7,0.0,de,1.0
-Bremerhaven…,Bremerhaven…,ORG,-0.7,0.0,de,1.0
-US-Farmer,US-Farmer,ORG,-1.0,0.0,de,1.0
-Eur…,Eur…,ORG,0.0,0.0,de,1.0
+Groß…,Groß…,ORG,0.0,0.0,de,1.0
+Mu…,Mu…,ORG,0.0,0.0,de,1.0
+KI-Zentrum,KI-Zentrum,ORG,0.0,0.0,de,1.0
 Kl…,Kl…,ORG,0.7,0.0,de,1.0
 KP-Führung,KP-Führung,ORG,0.0,0.0,de,1.0
 Proz…,Proz…,ORG,0.0,0.0,de,1.0
 LK OÖ,LK OÖ,ORG,0.5,0.0,de,1.0
 BUND Niedersachsen,BUND Niedersachsen,ORG,0.0,0.0,de,1.0
 Niedersachsens Umweltministerium,Niedersachsens Umweltministerium,ORG,0.0,0.0,de,1.0
-Mu…,Mu…,ORG,0.0,0.0,de,1.0
 F…,F…,ORG,1.0,0.0,de,1.0
+Bremerhaven…,Bremerhaven…,ORG,-0.7,0.0,de,1.0
 Rheinische Post,Rheinische Post,ORG,-0.7,0.0,de,1.0
 Energievers…,Energievers…,ORG,0.0,0.0,de,1.0
 EnBW,EnBW,ORG,0.0,0.0,de,1.0
@@ -267,10 +278,11 @@ Ha…,Ha…,ORG,0.0,0.0,de,1.0
 Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1.0
 Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 Biodiversitä…,Biodiversitä…,ORG,-0.43333333333333335,0.0,de,1.0
-KI-Zentrum,KI-Zentrum,ORG,0.0,0.0,de,1.0
+Eur…,Eur…,ORG,0.0,0.0,de,1.0
 Aktionsplan KI-Kontinent,Aktionsplan KI-Kontinent,ORG,0.0,0.0,de,1.0
-Beratungsunternehmens EY,Beratungsunternehmens EY,ORG,0.7,0.0,de,1.0
 KI-Spitzenreiter,KI-Spitzenreiter,ORG,0.0,0.0,de,1.0
+Fachjournal Science,Fachjournal Science,ORG,0.0,0.0,de,1.0
+Beratungsunternehmens EY,Beratungsunternehmens EY,ORG,0.7,0.0,de,1.0
 Jedi-Ritter,Jedi-Ritter,ORG,0.0,0.0,de,1.0
 ih…,ih…,ORG,0.0,0.0,de,1.0
 JBL,JBL,ORG,1.0,0.0,de,1.0
@@ -285,14 +297,19 @@ Europaparlament,Europaparlament,ORG,1.0,0.0,de,1.0
 W…,W…,ORG,-0.7,0.0,de,1.0
 Bosnienkrieg…,Bosnienkrieg…,ORG,0.0,0.0,de,1.0
 ve…,ve…,ORG,0.0,0.0,de,1.0
-Fachjournal Science,Fachjournal Science,ORG,0.0,0.0,de,1.0
-Raumsch…,Raumsch…,ORG,0.0,0.0,de,1.0
-Abgrund,Abgrund,ORG,-1.0,0.0,de,1.0
-Irans Regierung,Irans Regierung,ORG,-0.5,0.0,de,1.0
-Wassermangel“,Wassermangel“,ORG,0.0,0.0,de,1.0
+außerg…,außerg…,ORG,0.0,0.0,de,1.0
+WWA,WWA,ORG,0.0,0.0,de,1.0
+Landesamt für Umwelt:,Landesamt für Umwelt:,ORG,-0.7,0.0,de,1.0
 Botsch…,Botsch…,ORG,0.0,0.0,de,1.0
+Doñana-Nationalpark,Doñana-Nationalpark,ORG,0.0,0.0,de,1.0
+Dürre-Gefahr,Dürre-Gefahr,ORG,-1.0,0.0,de,1.0
+Helmholtz-Zentrum,Helmholtz-Zentrum,ORG,-0.7,0.0,de,1.0
+Prob…,Prob…,ORG,0.0,0.0,de,1.0
 EU-Bericht,EU-Bericht,ORG,-1.0,0.0,de,1.0
+Wassermangel“,Wassermangel“,ORG,0.0,0.0,de,1.0
+Grenzübergäng…,Grenzübergäng…,ORG,0.0,0.0,de,1.0
 b…,b…,ORG,0.0,0.0,de,1.0
+sudanesische Armee,sudanesische Armee,ORG,0.0,0.0,de,1.0
 Klimaextremen,Klimaextremen,ORG,0.0,0.0,de,1.0
 OVG,OVG,ORG,0.0,0.0,de,1.0
 Umwelt-Netzwerk Grüne Liga,Umwelt-Netzwerk Grüne Liga,ORG,-1.0,0.0,de,1.0
@@ -300,15 +317,17 @@ Dosenfabrik,Dosenfabrik,ORG,0.0,0.0,de,1.0
 Bebauungsplan,Bebauungsplan,ORG,0.0,0.0,de,1.0
 UN…,UN…,ORG,0.0,0.0,de,1.0
 UN-Agentur,UN-Agentur,ORG,0.0,0.0,de,1.0
-RSF-Miliz,RSF-Miliz,ORG,0.0,0.0,de,1.0
-sudanesische Armee,sudanesische Armee,ORG,0.0,0.0,de,1.0
-Vereinten Nationen und Hilfswerke,Vereinten Nationen und Hilfswerke,ORG,0.0,0.0,de,1.0
-KI,KI,ORG,0.0,0.0,de,1.0
-WM-Beginn,WM-Beginn,ORG,0.0,0.0,de,1.0
-Grenzübergäng…,Grenzübergäng…,ORG,0.0,0.0,de,1.0
-sa,sa,ORG,0.0,0.0,de,1.0
-außerg…,außerg…,ORG,0.0,0.0,de,1.0
-Prob…,Prob…,ORG,0.0,0.0,de,1.0
+UNESCO-Welterb…,UNESCO-Welterb…,ORG,0.0,0.0,de,1.0
+Trocknet Deutschland,Trocknet Deutschland,ORG,0.0,0.0,de,1.0
+Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1.0
+Fachleute,Fachleute,ORG,0.0,0.0,de,1.0
+CSU,CSU,ORG,0.0,0.0,de,1.0
+Amazone,Amazone,ORG,0.0,0.0,de,1.0
+Niederschlagsmuster,Niederschlagsmuster,ORG,1.0,0.0,de,1.0
+ARMOUR,ARMOUR,ORG,0.0,0.0,de,1.0
+Griechenland,Griechenland,ORG,0.0,0.0,de,1.0
+ge…,ge…,ORG,0.0,0.0,de,1.0
+US-Farmer,US-Farmer,ORG,-1.0,0.0,de,1.0
 Putzl…,Putzl…,ORG,0.0,0.0,de,1.0
 gießen ode…,gießen ode…,ORG,-0.7,0.0,de,1.0
 Situati…,Situati…,ORG,0.0,0.0,de,1.0
@@ -317,22 +336,19 @@ BrändeKlimabericht,BrändeKlimabericht,ORG,0.7,0.0,de,1.0
 Henkell Freixenet,Henkell Freixenet,ORG,0.0,0.0,de,1.0
 US-Zölle,US-Zölle,ORG,0.0,0.0,de,1.0
 Fol…,Fol…,ORG,0.0,0.0,de,1.0
-Fachleute,Fachleute,ORG,0.0,0.0,de,1.0
-Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1.0
-Trocknet Deutschland,Trocknet Deutschland,ORG,0.0,0.0,de,1.0
-UNESCO-Welterb…,UNESCO-Welterb…,ORG,0.0,0.0,de,1.0
-Doñana-Nationalpark,Doñana-Nationalpark,ORG,0.0,0.0,de,1.0
-Dürre-Gefahr,Dürre-Gefahr,ORG,-1.0,0.0,de,1.0
-Helmholtz-Zentrum,Helmholtz-Zentrum,ORG,-0.7,0.0,de,1.0
-PORTLAND,PORTLAND,ORG,0.7,0.0,de,1.0
-ISO,ISO,ORG,0.0,0.0,de,1.0
-Cookies,Cookies,ORG,0.7,0.0,de,1.0
-Sicherheitslücke,Sicherheitslücke,ORG,0.7,0.0,de,1.0
+RSF-Miliz,RSF-Miliz,ORG,0.0,0.0,de,1.0
+Vereinten Nationen und Hilfswerke,Vereinten Nationen und Hilfswerke,ORG,0.0,0.0,de,1.0
+lby,lby,ORG,0.0,0.0,de,1.0
+s…,s…,ORG,0.0,0.0,de,1.0
+österreichische Regierung,österreichische Regierung,ORG,1.0,0.0,de,1.0
+IMAGO/ANI,IMAGO/ANI,ORG,0.0,0.0,de,1.0
+Institut für Waldbau der Boku Wien,Institut für Waldbau der Boku Wien,ORG,0.0,0.0,de,1.0
+GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.35,0.0,de,1.0
 Bä…,Bä…,ORG,-0.7,0.0,de,1.0
 Landesamtes für U…,Landesamtes für U…,ORG,-1.0,0.0,de,1.0
 Head of Broking,Head of Broking,ORG,0.85,0.0,de,1.0
-s…,s…,ORG,0.0,0.0,de,1.0
 OeN…,OeN…,ORG,0.0,0.0,de,1.0
+KI,KI,ORG,0.0,0.0,de,1.0
 Österreichische Nationalbank,Österreichische Nationalbank,ORG,-0.7,0.0,de,1.0
 nan,nan,ORG,-0.7,0.0,de,1.0
 RH,RH,ORG,0.0,0.0,de,1.0
@@ -340,25 +356,23 @@ Ibiza,Ibiza,ORG,0.0,0.0,de,1.0
 Brand,Brand,ORG,0.0,0.0,de,1.0
 SciLogs,SciLogs,ORG,-0.5,0.0,de,1.0
 Mexiko City,Mexiko City,ORG,0.0,0.0,de,1.0
-lby,lby,ORG,0.0,0.0,de,1.0
-Landesamt für Umwelt:,Landesamt für Umwelt:,ORG,-0.7,0.0,de,1.0
-WWA,WWA,ORG,0.0,0.0,de,1.0
-GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.35,0.0,de,1.0
-Institut für Waldbau der Boku Wien,Institut für Waldbau der Boku Wien,ORG,0.0,0.0,de,1.0
-IMAGO/ANI,IMAGO/ANI,ORG,0.0,0.0,de,1.0
-üb…,üb…,ORG,1.0,0.0,de,1.0
+Ja…,Ja…,ORG,0.0,0.0,de,1.0
+Frost-Hammer!,Frost-Hammer!,ORG,0.0,0.0,de,1.0
++++40,+++40,ORG,0.0,0.0,de,1.0
+Normalzustand,Normalzustand,ORG,0.0,0.0,de,1.0
+WM-Beginn,WM-Beginn,ORG,0.0,0.0,de,1.0
+PORTLAND,PORTLAND,ORG,0.7,0.0,de,1.0
+ISO,ISO,ORG,0.0,0.0,de,1.0
+Cookies,Cookies,ORG,0.7,0.0,de,1.0
+Sicherheitslücke,Sicherheitslücke,ORG,0.7,0.0,de,1.0
 Security,Security,ORG,0.7,0.0,de,1.0
 Bitpanda,Bitpanda,ORG,-1.0,0.0,de,1.0
 NGO-Bericht,NGO-Bericht,ORG,0.0,0.0,de,1.0
 Golem Karrierewelt,Golem Karrierewelt,ORG,0.7,0.0,de,1.0
 zahlre…,zahlre…,ORG,1.0,0.0,de,1.0
 IT-Infrastruktur,IT-Infrastruktur,ORG,0.85,0.0,de,1.0
+üb…,üb…,ORG,1.0,0.0,de,1.0
 Olympia-Bewe…,Olympia-Bewe…,ORG,0.0,0.0,de,1.0
-österreichische Regierung,österreichische Regierung,ORG,1.0,0.0,de,1.0
 Vereinte Nationen,Vereinte Nationen,ORG,-0.7,0.0,de,1.0
 Die Welt,Die Welt,ORG,0.0,0.0,de,1.0
-Normalzustand,Normalzustand,ORG,0.0,0.0,de,1.0
-+++40,+++40,ORG,0.0,0.0,de,1.0
-Frost-Hammer!,Frost-Hammer!,ORG,0.0,0.0,de,1.0
-Ja…,Ja…,ORG,0.0,0.0,de,1.0
-Euro Bußgeld,Euro Bußgeld,ORG,0.0,0.0,de,1.0
+KI-Revo…,KI-Revo…,ORG,0.0,0.0,de,1.0
