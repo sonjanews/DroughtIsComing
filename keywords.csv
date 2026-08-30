@@ -28,9 +28,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0158275238664628
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0075603431020648
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0038153797973945
-'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0032430728277853
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277852
+'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.002906626903617505
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0014389686425125
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.00108104475458441
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0010810447545844
