@@ -9,15 +9,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.0913045049574818
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.0738172015311798
-'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.07307990032950244
+'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.0730799003295024
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.067633850528239
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0658495734874533
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0632695663957666
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
-'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0590396591534286
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0566881669549042
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0562150113731402
+'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.05048374028041431
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0481883574998867
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0476566203286882
