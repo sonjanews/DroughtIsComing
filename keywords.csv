@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.3160543133020668
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.2172203665246621
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.1971830022049452
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.20360939187420343
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1801323444811229
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,3,0.1789869063317985
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.1723704646421789
