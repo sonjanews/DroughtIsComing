@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,3,0.1789869063317985
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.1723704646421789
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.1277291712101994
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.09259539931954701
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.0913045049574818
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.0738172015311798
@@ -20,9 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0504837402804143
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,1,0.0481883574998867
-'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.04770291841309983
+'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0476566203286882
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0470685555462163
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0386159064022514
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0191201386770386
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0158275238664628
