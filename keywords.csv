@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.3160543133020668
 'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.2172203665246621
-'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.20360939187420343
+'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.2036093918742034
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1801323444811229
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,3,0.1789869063317985
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.1723704646421789
@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277852
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0026206478680748
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0014389686425125
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.001223123346135625
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0010810447545844
