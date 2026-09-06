@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trockenstress',de,Impacts,#428e47,#8dad69,1,0.0632695663957666
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0566881669549042
-'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.05653316114763097
+'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0565331611476309
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0504837402804143
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
@@ -31,6 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0032430728277853
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277853
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277852
-'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0026206478680748
+'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.00237756568786358
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0012231233461356
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0010810447545844
