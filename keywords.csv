@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Hazard,#c13030,#cb5050,1,0.3160543133020668
-'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.2182395451823264
+'Dürre',de,Hazard,#c13030,#9f4e4e,3,0.28046790840497743
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.2036093918742034
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1801323444811229
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,3,0.1789869063317985
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0565331611476309
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0504837402804143
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.04908503191166857
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0490850319116685
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0476566203286882
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0386159064022514
