@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre Klimawandel',de,Causes,#e8aa1a,#e8aa1a,3,0.2036093918742034
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1801323444811229
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,3,0.1789869063317985
-'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.16136901994585207
+'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.161369019945852
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.1277291712101994
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.092595399319547
 'Wasserkrise',de,Impacts,#357d49,#7eae80,2,0.0913045049574818
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.08954382942161494
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0867830746671691
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.079109615280077
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
