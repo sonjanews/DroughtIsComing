@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0895438294216149
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0867830746671691
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.079109615280077
-'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.07760902421385953
+'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0776090242138595
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.0738172015311798
 'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.067633850528239
@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0032430728277852
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0030566419036175
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0021709458346839
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0012231233461356
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0010810447545844
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.00103965484421526
