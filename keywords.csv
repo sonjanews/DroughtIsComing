@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0476566203286882
-'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.04455057942916327
+'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0445505794291632
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0429111792383521
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0424723521249182
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0386159064022514
@@ -33,4 +33,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0027566119036175
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0021709458346839
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0010810447545844
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0010396548442152
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.00088370661758292
