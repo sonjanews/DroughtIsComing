@@ -32,5 +32,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0030566419036175
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0023431201180748
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0019953189594813
-'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0008837066175829
-'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0007810548351871949
+'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.0007810548351871
+'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.000751150624945465
