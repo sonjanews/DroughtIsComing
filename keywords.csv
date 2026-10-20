@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserknappheit',de,Impacts,#357d49,#7eae80,3,0.1801323444811229
 'Klimawandel Trockenheit',de,Causes,#e8aa1a,#e8b41a,3,0.161369019945852
 'Ernte Dürre',de,Impacts,#458D49,#8dad69,1,0.144745885603435
-'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.09228432619936898
+'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0922843261993689
 'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0895438294216149
 'Wassermanagement',de,Adaptation,#9837cc,#62178a,1,0.0867830746671691
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.079109615280077
@@ -28,9 +28,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0158275238664628
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0060174033912417
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0023431201180748
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0018771602090589
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0016960211155591
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0016929042853088
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0015955861777000651
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0008837066175829
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.000663896609909
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0004613003775444
