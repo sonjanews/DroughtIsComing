@@ -21,16 +21,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
 'Dürre Evakuierung',de,Mitigation,#348ad6,#70aadd,2,0.0445505794291632
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0429111792383521
-'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0424723521249182
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0408081572793849
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0386159064022514
+'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.036101499306180465
 'Ernteausfall Dürre',de,Impacts,#458D49,#8dad69,1,0.0191201386770386
 'Ertragsverluste',de,Vulnerability,#6e030a,#96030d,1,0.0158275238664628
 'Day Zero Wasser',de,Impacts,#558d39,#7eae80,1,0.0060174033912417
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0023431201180748
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0016960211155591
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0016929042853088
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0015955861777000651
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0015955861777
 'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0008837066175829
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.000663896609909
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0004613003775444
