@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimasensibilität',de,Vulnerability,#6e030a,#96030d,1,0.0016929042853089
 'Bodenverschlechterung',de,Vulnerability,#6e030a,#96030d,1,0.0016929042853088
 'Ernterückgang',de,Vulnerability,#6e030a,#96030d,1,0.0014416179482252
-'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0011528110133882
+'Bewässerungsmanagement',de,Resilience,#5df0e1,#65dfef,1,0.0009798893613799698
 'Dürre Wasserrationierung',de,Adaptation,#9837cc,#8c0ad1,1,0.000663896609909
-'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.00063847803120359
+'Desertifikationstendenz',de,Vulnerability,#6e030a,#96030d,1,0.0006384780312035
 'Bodenfeuchtigkeitserhalt',de,Resilience,#5df0e1,#65dfef,1,0.0003921053209127
