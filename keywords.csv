@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen',de,Adaptation,#9837cc,#8c0ad1,3,0.079109615280077
 'Regenmangel',de,Hazard,#b13040,#9f4e4e,1,0.0784416772694635
 'Wasserkrise',de,Impacts,#357d49,#7eae80,1,0.0776090242138595
-'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.07611225500837267
+'Dürre steigende Preise',de,Impacts,#257d59,#7eae80,1,0.0761122550083726
 'Hungersnot',de,Impacts,#458d49,#7eae80,1,0.0759133663475345
 'Wassermangel',de,Impacts,#357d49,#7eae80,2,0.0660073407243864
 'Dürre teuer',de,Impacts,#157552,#7eae80,1,0.0658495734874533
@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser sparen Landwirtschaft',de,Mitigation,#348ad6,#1d6cb3,2,0.0628946363015028
 'Dürre Wasserversorgung',de,Hazard,#c13030,#cb5050,1,0.0609646496919195
 'Grundwasserspiegel',de,Impacts,#418D42,#8dad69,1,0.0504795794912012
-'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.0492704975066526
 'Risikomanagement',de,Resilience,#5df0e1,#65dfef,2,0.0477029184130998
 'Versalzung',de,Causes,#e8aa1a,#f3d57c,1,0.0429111792383521
+'Dürremonitor',de,Hazard,#c13030,#cb5050,1,0.04202993788065471
 'Hitzewelle Verdunstung',de,Causes,#e8aa1a,#efc565,2,0.0408081572793849
 'Wasserspeicher',de,Mitigation,#348ad6,#70aadd,1,0.0386159064022514
 'Anpassungsstrategien',de,Resilience,#5df0e1,#65dfef,1,0.0361014993061804
