@@ -114,12 +114,12 @@ Hitze und Dürre,Hitze und Dürre,MISC,,,de,1.9
 Wassermangel in der Ägäis,Wassermangel in der Ägäis,MISC,,,de,1.9
 argentinische,argentinische,MISC,,,de,1.9
 H…,H…,MISC,,,de,1.9
+Dürre-Sommer,Dürre-Sommer,MISC,-0.5263157894736842,0.0,de,1.9
 thailändische,thailändische,MISC,,,de,1.9
 "MÜNCHEN
 ","MÜNCHEN
 ",MISC,,,de,1.9
 TAG IN,TAG IN,MISC,,,de,1.9
-Dürre-Sommer,Dürre-Sommer,MISC,-0.5263157894736842,0.0,de,1.9
 Rhein-Pegel,Rhein-Pegel,MISC,,,de,1.9
 sächsischen,sächsischen,MISC,,,de,1.9
 arabischen,arabischen,MISC,,,de,1.9
@@ -157,8 +157,8 @@ steirischen,steirischen,MISC,,,de,1.8
 Hause kaufst du,Hause kaufst du,MISC,,,de,1.8
 Wasser-Streit,Wasser-Streit,MISC,,,de,1.5000000000000004
 Erwärmung,Erwärmung,MISC,,,de,1.3
-Wassers,Wassers,MISC,0.0,0.0,de,1.2000000000000002
 amerikanische,amerikanische,MISC,,,de,1.2000000000000002
+Wassers,Wassers,MISC,0.0,0.0,de,1.2000000000000002
 Hause,Hause,MISC,,,de,1.1
 Nobelpreis für Klimatechnologie,Nobelpreis für Klimatechnologie,MISC,,,de,1.1
 Instagram,Instagram,MISC,,,de,1.1
@@ -407,9 +407,9 @@ europäischen,europäischen,MISC,,,de,1.0
 Ostösterreic…,Ostösterreic…,MISC,,,de,1.0
 Nahe Osten im Jahr 2050,Nahe Osten im Jahr 2050,MISC,,,de,1.0
 brasilianische,brasilianische,MISC,,,de,1.0
-Baruth“,Baruth“,MISC,,,de,1.0
-Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
 Getränke-Produktion,Getränke-Produktion,MISC,-0.5833333333333333,0.0,de,1.0
+Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.0
+Baruth“,Baruth“,MISC,,,de,1.0
 Was… Kopiere,Was… Kopiere,MISC,,,de,1.0
 Cou…,Cou…,MISC,,,de,1.0
 Der Ablasshandel des Westens,Der Ablasshandel des Westens,MISC,,,de,1.0
@@ -422,7 +422,7 @@ UN im Jahr 2023,UN im Jahr 2023,MISC,,,de,1.0
 Kabinett“,Kabinett“,MISC,,,de,1.0
 Hitze-Perioden,Hitze-Perioden,MISC,0.0,0.0,de,1.0
 Si…,Si…,MISC,0.3684210526315789,0.0,de,1.0
-Wasserverbrauch“,Wasserverbrauch“,MISC,,,de,1.0
+Der Wasserverbrauch,Der Wasserverbrauch,MISC,,,de,1.0
 Das Thema Klimawandel,Das Thema Klimawandel,MISC,,,de,1.0
 20Millionen,20Millionen,MISC,,,de,1.0
 Getränkehersteller“,Getränkehersteller“,MISC,,,de,1.0
@@ -517,8 +517,8 @@ Regenausfall,Regenausfall,MISC,,,de,1.0
 Klimaschutz“,Klimaschutz“,MISC,,,de,1.0
 EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1.0
 TV,TV,MISC,,,de,1.0
+Das segelnde Klassenzimmer,Das segelnde Klassenzimmer,MISC,,,de,1.0
 See“,See“,MISC,,,de,1.0
-Sie tauschen Klassenzimmer,Sie tauschen Klassenzimmer,MISC,,,de,1.0
 Klimaflucht,Klimaflucht,MISC,,,de,1.0
 Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,MISC,-0.5666666666666667,0.3333333333333333,de,1.0
 Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1.0
@@ -531,7 +531,7 @@ Adobe Stock,Adobe Stock,MISC,,,de,1.0
 R…,R…,MISC,,,de,1.0
 Erkältung bei Kindern,Erkältung bei Kindern,MISC,,,de,1.0
 größten.weiterlesen auf t3n.de,größten.weiterlesen auf t3n.de,MISC,,,de,1.0
-Das segelnde Klassenzimmer,Das segelnde Klassenzimmer,MISC,,,de,1.0
+Sie tauschen Klassenzimmer,Sie tauschen Klassenzimmer,MISC,,,de,1.0
 Zeit der großen Dürre,Zeit der großen Dürre,MISC,,,de,1.0
 EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1.0
 Fok…,Fok…,MISC,,,de,1.0
@@ -545,10 +545,10 @@ Olivenernte,Olivenernte,MISC,,,de,1.0
 Star Wars,Star Wars,MISC,,,de,1.0
 Olivenfruchtfliege,Olivenfruchtfliege,MISC,,,de,1.0
 Bose,Bose,MISC,,,de,1.0
+chinesischen,chinesischen,MISC,,,de,1.0
 "Dukas
 ","Dukas
 ",MISC,,,de,1.0
-chinesischen,chinesischen,MISC,,,de,1.0
 Sieben Jahre ohne Star Wars,Sieben Jahre ohne Star Wars,MISC,,,de,1.0
 Sternenkrieg passé,Sternenkrieg passé,MISC,,,de,1.0
 Die Wasser…,Die Wasser…,MISC,,,de,1.0
@@ -646,8 +646,8 @@ New York/Dakar,New York/Dakar,MISC,,,de,1.0
 Angriff Russlands auf,Angriff Russlands auf,MISC,,,de,1.0
 150 Jahre alte Baumgruppe,150 Jahre alte Baumgruppe,MISC,,,de,1.0
 Trockenh…,Trockenh…,MISC,,,de,1.0
-Bäume ze…,Bäume ze…,MISC,,,de,1.0
 dritten Jahr,dritten Jahr,MISC,,,de,1.0
+Bäume ze…,Bäume ze…,MISC,,,de,1.0
 Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,1.0
 Risk-Abteilung,Risk-Abteilung,MISC,,,de,1.0
 Risk Council,Risk Council,MISC,,,de,1.0
